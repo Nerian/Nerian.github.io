@@ -3,7 +3,7 @@ description:      Freelance Ruby on Rails developer
 logo:             avatar.png
 disqus_shortname: nerian-blog
 #Comment out url when working locally to resolve base urls correctly
-# url:              http://your-website.com
+url:              http://nerian.es
 
 # Owner/author information
 owner:
