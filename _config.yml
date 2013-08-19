@@ -1,32 +1,32 @@
-title:            Site Title
-description:      Describe your website here.
-logo:             site-logo.png
-disqus_shortname: 
+title:            Gonzalo Rodríguez-Baltanás Díaz
+description:      Freelance Ruby on Rails developer
+logo:             avatar.png
+disqus_shortname: nerian-blog
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+# url:              http://your-website.com
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           Gonzalo Rodríguez-Baltanás Díaz
+  avatar:         avatar.png
+  email:          gonzalo.rodriguez@nerian.es
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter: iCodeErgoExist
+  facebook:
+  github: Nerian
+  stackexchange: http://stackoverflow.com/users/473763/nerian
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-20768366-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -35,11 +35,8 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Work
+    url: /work
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -58,7 +55,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10

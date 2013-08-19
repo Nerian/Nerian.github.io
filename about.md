@@ -1,28 +1,24 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+title: About me
+tags: [about]
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: so-simple-sample-image-2.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+My name is **Gonzalo Rodríguez-Baltanás Díaz**. I am Spanish software developer specialized in crafting web applications with **Ruby on Rails**.
 
-## So Simple Theme is all about:
+I am deeply passionate about developing clean code that can be read, understood and changed effortlessly. I love participating in open source projects and cutting edge technologies. I hold a **degree on Computer Science** by the university Pablo de Olavide. I am a **Mendicant University Alumni**.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
+I love **Ruby**, **MongoDB**, Behaviour Driven Development, Photography, Windsurf and swimming.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+My code is available in [Github](https://github.com/Nerian). Some of my popular open source projecs are:
 
-[^1]: Example: *domain.com/category-name/post-title*
+* [bootstrap-datepicker-rails](https://github.com/Nerian/bootstrap-datepicker-rails)
+* [bootstrap-wysihtml5-rails](https://github.com/Nerian/bootstrap-wysihtml5-rails)
+* [bootstrap-typeahead-rails](https://github.com/Nerian/bootstrap-typeahead-rails)
+* [credly-ruby](https://github.com/haikulearning/credly-ruby)
+* [uboost-client](https://github.com/haikulearning/uboost-client)
+
+You can contact me at **gonzalo.rodriguez at nerian.es**. Drop me a line if you think I can be of help in your awesome project.
