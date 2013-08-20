@@ -34,4 +34,4 @@ I provide my expertise for 50€ / hour.
 
 ## Contact
 
-You can reach me at **gonzalo.rodriguez at nerian.es**. For a new project, please submit **[this](https://docs.google.com/forms/d/10wBVpz3bvMm6p4nBArDGBGQZeAaWTKMZkwPBq9fg6iY/viewform)**.
+You can reach me at **gonzalo.rodriguez at nerian.es**.
