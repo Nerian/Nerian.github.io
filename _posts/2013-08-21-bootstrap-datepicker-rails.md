@@ -19,21 +19,21 @@ So I packaged that project into a ruby gem, ready to use with Rails' assets pipe
 
 Using it is as simple as
 
-~~~ ruby
+{% highlight ruby %}
 gem 'bootstrap-datepicker-rails'
-~~~
+{% endhighlight %}
 
 Add this line to app/assets/stylesheets/application.css
 
-~~~ css
+{% highlight scss %}
 *= require bootstrap-datepicker
-~~~
+{% endhighlight %}
 
 Add this line to app/assets/javascripts/application.js
 
-~~~ javascript
+{% highlight javascript %}
 //= require bootstrap-datepicker
-~~~
+{% endhighlight %}
 
 And then
 
@@ -45,4 +45,4 @@ And then
     $('[data-behaviour~=datepicker]').datepicker();
   })
 </script>
-{% endhighlight%}
+{% endhighlight %}
