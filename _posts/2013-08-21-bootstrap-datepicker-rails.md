@@ -37,7 +37,7 @@ Add this line to app/assets/javascripts/application.js
 
 And then
 
-``` html
+{% highlight html %}
 <input type="text" data-behaviour='datepicker' >
 
 <script type="text/javascript">
@@ -45,4 +45,4 @@ And then
     $('[data-behaviour~=datepicker]').datepicker();
   })
 </script>
-```
+{% endhighlight%}
