@@ -4,7 +4,7 @@ title: bootstrap-datepicker-rails
 description: An introduction on the usage of bootstrap-datepicker-rails
 modified: 2013-08-21
 category: articles
-tags: []
+tags: [bootstrap, rails, datepicker]
 image:
   credit: Gonzalo Rodríguez-Baltanás Díaz
   creditlink: http://nerian.es
