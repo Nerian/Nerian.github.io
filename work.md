@@ -3,7 +3,7 @@ layout: page
 permalink: /work/index.html
 title: Hire me
 description: "How to hire the best Ruby on Rails developer in the world"
-tags: [work]
+tags: ['hire ruby developer']
 ---
 
 I am a freelance Ruby on Rails developer. That means we can work together to craft your ideas into real valuable solutions that clients love.

@@ -3,6 +3,7 @@ layout: page
 permalink: /about/index.html
 title: About me
 tags: [about]
+description: Gonzalo is a freelance Ruby on Rails developer living in Spain
 image:
   feature: so-simple-sample-image-2.jpg
 ---
