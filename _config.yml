@@ -9,7 +9,7 @@ url:              http://nerian.es
 owner:
   name:           Gonzalo Rodríguez-Baltanás Díaz
   avatar:         avatar.png
-  email:          gonzalo.rodriguez@nerian.es
+  email:
   # Social networking links used in footer. Update and remove as you like.
   twitter: iCodeErgoExist
   facebook:
