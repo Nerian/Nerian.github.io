@@ -16,7 +16,7 @@ I am a freelance Ruby on Rails developer. That means we can work together to cra
 
 ## Current Status
 
-Fully booked for the next 6 months. (_Updated 2013 December_)
+Fully booked. (_Updated 2013 December_)
 
 {% include hire_list.html %}
 
