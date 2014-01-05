@@ -1,10 +1,15 @@
 ---
 layout: page
-permalink: /about/index.html
 title: About me
 tags: [about]
 description: Gonzalo is a freelance Ruby on Rails developer living in Spain
 ---
+
+<div class="article-cover" style='background: none'>
+    <div style='text-align: center;'>
+        <img src="/images/avatar.png" class="image" style='border-radius: 999px;width: 300px;margin-bottom: 3em;'>
+    </div>
+</div>
 
 My name is **Gonzalo Rodríguez-Baltanás Díaz**. I am software developer specialized in crafting web applications with **Ruby on Rails**. I freelance as a Web Developer and I recently founded [Eucalipto](https://www.eucalipto.eu).
 

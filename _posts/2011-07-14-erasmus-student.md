@@ -1,14 +1,20 @@
 ---
 layout: post
 title: My Erasmus experience
-description: "My experience living as an erasmus student"
+subtitle: "My experience living as an erasmus student"
+cover_image:
+
 modified: 2013-08-19
 category: articles
 tags: [erasmus]
-image:
-  credit: Gonzalo Rodríguez-Baltanás Díaz
-  creditlink: http://nerian.es
-comments: true
+
+author:
+  name: Gonzalo Rodríguez-Baltanás Díaz
+  twitter: iCodeEgoExist
+  bio: 'Founder'
+  image: avatar.png
+
+excerpt: "No more than 15 days ago I was still in Belgium as a part of my Erasmus scholarship. Now it is over. I am at home now but at the same time I feel like I am not really there. The Erasmus scholarship is an european scholarship that allows students from european universities to live and study in another european country. I was destined to Belgium."
 ---
 
 No more than 15 days ago I was still in Belgium as a part of my Erasmus scholarship. Now it is over. I am at home now but at the same time I feel like I am not really there. The Erasmus scholarship is an european scholarship that allows students from european universities to live and study in another european country. I was destined to Belgium.

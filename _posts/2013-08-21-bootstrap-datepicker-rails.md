@@ -1,14 +1,20 @@
 ---
 layout: post
 title: bootstrap-datepicker-rails
-description: An introduction on the usage of bootstrap-datepicker-rails
+subtitle: An introduction on the usage of bootstrap-datepicker-rails
+cover_image:
+
 modified: 2013-08-21
 category: articles
 tags: [bootstrap, rails, datepicker]
-image:
-  credit: Gonzalo Rodríguez-Baltanás Díaz
-  creditlink: http://nerian.es
-comments: true
+
+author:
+  name: Gonzalo Rodríguez-Baltanás Díaz
+  twitter: iCodeEgoExist
+  bio: 'Founder'
+  image: avatar.png
+
+excerpt: "While creating http://eucalipto.eu I needed to use a Datepicker. I was using the fantastic Twitter Bootstrap framework so I looked for a datepicker that would look as good."
 ---
 
 While creating [eucalipto.eu](http://eucalipto.eu) I needed to use a Datepicker. I was using the fantastic Twitter Bootstrap framework so I looked for a datepicker that would look as good.

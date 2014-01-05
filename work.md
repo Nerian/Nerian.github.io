@@ -6,6 +6,12 @@ description: "How to hire the best Ruby on Rails developer in the world"
 tags: ['hire ruby developer']
 ---
 
+<div class="article-cover" style='background: none'>
+    <div style='text-align: center;'>
+        <img src="/images/avatar.png" class="image" style='border-radius: 999px;width: 300px;margin-bottom: 3em;'>
+    </div>
+</div>
+
 I am a freelance Ruby on Rails developer. That means we can work together to craft your ideas into real valuable solutions that clients love.
 
 ## Current Status

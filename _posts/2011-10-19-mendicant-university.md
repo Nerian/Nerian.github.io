@@ -1,14 +1,20 @@
 ---
 layout: post
 title: Mendicant University
-description: "My experience in the Mendicant University program"
+subtitle: "My experience in the Mendicant University program"
+cover_image:
+
 modified: 2013-08-19
 category: articles
 tags: [mendicant]
-image:
-  credit: Gonzalo Rodríguez-Baltanás Díaz
-  creditlink: http://nerian.es
-comments: true
+
+author:
+  name: Gonzalo Rodríguez-Baltanás Díaz
+  twitter: iCodeEgoExist
+  bio: 'Founder'
+  image: avatar.png
+
+excerpt: "During the month of September I have been learning. Learning in the most pure, distilled and effective way: By doing."
 ---
 
 During the month of September I have been learning. Learning in the most pure, distilled and effective way: By doing.

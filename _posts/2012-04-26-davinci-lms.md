@@ -1,14 +1,20 @@
 ---
 layout: post
 title: DaVinci LMS
-description: "DaVinci LMS is a minimal Learning Management System"
+subtitle: "DaVinci LMS is a minimal Learning Management System"
+cover_image:
+
 modified: 2013-08-19
 category: articles
 tags: [davinci]
-image:
-  credit: Gonzalo Rodríguez-Baltanás Díaz
-  creditlink: http://nerian.es
-comments: true
+
+author:
+  name: Gonzalo Rodríguez-Baltanás Díaz
+  twitter: iCodeEgoExist
+  bio: 'Founder'
+  image: avatar.png
+
+excerpt: "When I was in university Pablo de Olavide we used WebCT for the online presence of teachers and students. It was an extremely useful web system. Among the many thing WebCT could do was to manage documents. So teachers will upload notes for the Java class at the start of the course and students will be able to download it, study it and raise questions before the actual class starts. It was a very useful document store. Another very useful feature that we used intensively was the Task system."
 ---
 
 When I was in university Pablo de Olavide we used WebCT for the online presence of teachers and students. It was an extremely useful web system. Among the many thing WebCT could do was to manage documents. So teachers will upload notes for the Java class at the start of the course and students will be able to download it, study it and raise questions before the actual class starts. It was a very useful document store. Another very useful feature that we used intensively was the Task system. So a teacher will say 'Solve problems 13-18 and send me the code'. We will solve them and then send back the code, all using the web interface. It was very handy.
