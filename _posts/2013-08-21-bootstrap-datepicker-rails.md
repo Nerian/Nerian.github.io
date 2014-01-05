@@ -10,7 +10,7 @@ tags: [bootstrap, rails, datepicker]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz
-  twitter: iCodeEgoExist
+  twitter: iCodeErgoExist
   bio: 'Founder'
   image: avatar.png
 
