@@ -6,7 +6,7 @@ body {
     color:$text;
     -webkit-font-smoothing:antialiased;
     text-rendering:optimizelegibility;
-    font-size:17px;
+    font-size:18px;
 }
 
 .is-visible {
@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5 {
 
 h1, h2 {
     font-family:$fontheadings;
+    line-height:1.85;
 }
 
 a {
@@ -74,9 +75,7 @@ a {
         display:table-cell;
     }
 
-    .title {
-        margin:0em 0 0.6em;
-    }
+
 
     .avatar {
         float:left;

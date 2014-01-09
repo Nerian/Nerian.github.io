@@ -39,7 +39,7 @@ inc:
 
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
-  google_font: 'Droid+Sans:400,700'
+  google_font: 'Merriweather:400|Open Sans:600'
 
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 

@@ -2,9 +2,12 @@ article {
     background:#fff;
     padding:60px 0;
     font-size:18px;
+    max-width: 650px;
+    margin: 0 auto;
 
     .container > header, .container > section, .container > footer {
-        margin:0 8em;
+        margin: 0 1em;
+        margin-bottom: 3em;
     }
 
     .social {
@@ -29,15 +32,6 @@ article {
     header {
         margin-top:2em;
         margin-bottom:2em;
-
-        &::after {
-            content:" ";
-            display:block;
-            width:1.5em;
-            height:0.2em;
-            background:#ddd;
-            margin:1em 0;
-        }
     }
 
 
@@ -68,7 +62,7 @@ article {
 
     p {
         font-size:1em;
-        line-height:1.5;
+        line-height: 1.85em;
         color:$text;
         font-weight:400;
         margin:0 0 1.5em;
@@ -86,6 +80,7 @@ article {
         li {
             font-weight:400;
             margin-bottom:0.5em;
+            line-height: 1.85em;
         }
     }
 
@@ -132,10 +127,11 @@ article {
     .meta {
         color:$textmuted;
         font-size:13px;
-        text-transform:uppercase;
         margin-bottom:0.3em;
         font-weight:400;
         letter-spacing:1px;
+        text-align: center;
+        margin-bottom: 2em;
 
         time, address {
             display:inline;
@@ -155,8 +151,9 @@ article {
 
 
     .title {
-        margin:0.2em 0;
         font-weight:bold;
+        text-align: center;
+        margin-bottom: 0;
 
         a {
             border:0;
