@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activating spell checking for markdown files on Sublime Text 2
+title: "Sublime Text 2: Activating spell checking per file"
 cover_image:
 
 author:

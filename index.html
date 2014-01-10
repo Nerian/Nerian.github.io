@@ -27,7 +27,7 @@ layout: base
   {% unless post.draft %}
     <section class="index">
         <div>
-            <h1 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h1>
+            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
             <div class="meta">
                Published on
                 <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
