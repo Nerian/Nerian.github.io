@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Erasmus experience
-subtitle: "My experience living as an erasmus student"
+subtitle: "My experience living as an Erasmus student"
 cover_image:
 
 modified: 2013-08-19
