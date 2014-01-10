@@ -14,7 +14,7 @@ author:
   bio: 'Founder'
   image: avatar.png
 
-excerpt: "During the month of September I have been learning. Learning in the most pure, distilled and effective way: By doing."
+excerpt: "The most valuable course I ever took was the month I spend in Gregory Brown's Mendicant University learning how to master ruby Development."
 ---
 
 During the month of September I have been learning. Learning in the most pure, distilled and effective way: By doing.
@@ -27,7 +27,7 @@ That is what university doesn't teach you. That is what working on pet projects 
 
 Gregory Brown is the founder of Mendicant University(MU). The idea of MU is similar to a Think Tank. A place where intelligent people go to share thoughts and achieve greater things than if they did so alone.
 
-From that organisation a Core Skills course was created. This course is designed to make a small group (10 people) skyrocket their development skills. How do they do that? By doing.
+From that organization a Core Skills course was created. This course is designed to make a small group (10 people) skyrocket their development skills. How do they do that? By doing.
 
 I did a total of four projects.
 

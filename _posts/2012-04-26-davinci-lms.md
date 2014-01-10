@@ -14,7 +14,7 @@ author:
   bio: 'Founder'
   image: avatar.png
 
-excerpt: "When I was in university Pablo de Olavide we used WebCT for the online presence of teachers and students. It was an extremely useful web system. Among the many thing WebCT could do was to manage documents. So teachers will upload notes for the Java class at the start of the course and students will be able to download it, study it and raise questions before the actual class starts. It was a very useful document store. Another very useful feature that we used intensively was the Task system."
+excerpt: "Back in university we used WebCT, which sucked and worked at the same time. My first project in Ruby on Rails was my implementation of the good things in WebCT: Davinci LMS. Pursing this quest, implementing the perfect LMS, was what really made me decide to study Web development. It's ironic that bad software inspired a path that gave me such a great career."
 ---
 
 When I was in university Pablo de Olavide we used WebCT for the online presence of teachers and students. It was an extremely useful web system. Among the many thing WebCT could do was to manage documents. So teachers will upload notes for the Java class at the start of the course and students will be able to download it, study it and raise questions before the actual class starts. It was a very useful document store. Another very useful feature that we used intensively was the Task system. So a teacher will say 'Solve problems 13-18 and send me the code'. We will solve them and then send back the code, all using the web interface. It was very handy.

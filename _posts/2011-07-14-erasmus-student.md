@@ -14,10 +14,10 @@ author:
   bio: 'Founder'
   image: avatar.png
 
-excerpt: "No more than 15 days ago I was still in Belgium as a part of my Erasmus scholarship. Now it is over. I am at home now but at the same time I feel like I am not really there. The Erasmus scholarship is an european scholarship that allows students from european universities to live and study in another european country. I was destined to Belgium."
+excerpt: "Thoughts after Erasmus scholarship in Belgium."
 ---
 
-No more than 15 days ago I was still in Belgium as a part of my Erasmus scholarship. Now it is over. I am at home now but at the same time I feel like I am not really there. The Erasmus scholarship is an european scholarship that allows students from european universities to live and study in another european country. I was destined to Belgium.
+No more than 15 days ago I was still in Belgium as a part of my Erasmus scholarship. Now it is over. I am at home now but at the same time I feel like I am not really there. The Erasmus scholarship is an European scholarship that allows students from european universities to live and study in another European country. I was destined to Belgium.
 
 When I first arrived to Belgium I didn't really know what I was supposed to do with the time I have been granted in complete independence. So the first thing I did was to go to a party :)
 
