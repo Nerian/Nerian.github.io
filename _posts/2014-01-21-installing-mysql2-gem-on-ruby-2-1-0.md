@@ -9,10 +9,10 @@ author:
   bio: 'Founder'
   image: avatar.png
 
-excerpt: ""
+excerpt: "Installing the mysql2 gem may give you this error: Library not loaded: libmysqlclient.18.dylib (LoadError). This is how you can solve it."
 ---
 
-Installing the mysql2 gem may give you this error:
+Installing the mysql2 gem may give you
 
 {% highlight bash %}
 Library not loaded: libmysqlclient.18.dylib (LoadError)
