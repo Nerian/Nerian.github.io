@@ -9,7 +9,7 @@ author:
   bio: 'Founder'
   image: avatar.png
 
-excerpt: ""
+excerpt: "Aren't you tired of thinking about your business models as a set of tables? What if you could represent them as a crystal clear mirror of your mental model?"
 ---
 
 __MongoDB is a NoSQL database. What the hell does that even mean?__
