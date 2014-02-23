@@ -1,7 +1,7 @@
 inc:
   # Blog Information
   title:        "Gonzalo Rodríguez-Baltanás Díaz"
-  subtitle:     "Ruby on Rails Developer"
+  subtitle:     "Professional Web Development with Ruby on Rails"
   cover_image:  main_cover.png
   logo:         logo.png
 
@@ -15,7 +15,7 @@ inc:
 
   # Product Information
   product_link: http://nerian.es
-  tagline:      "Ruby on Rails freelance developer"
+  tagline:      "Web Development the way is meant to be done"
 
   # Comments
   disqus:
