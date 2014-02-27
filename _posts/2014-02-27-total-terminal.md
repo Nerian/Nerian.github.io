@@ -20,4 +20,6 @@ It starts when you computer starts but it remains invisible until you need it. W
 
 Start saving time now: [http://totalterminal.binaryage.com/](http://totalterminal.binaryage.com/)
 
+This article is part of a series on how to create the best development environment. Subscribe so you don’t miss any chapter!
+
 {% include email_list.html %}
