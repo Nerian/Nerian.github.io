@@ -3,6 +3,8 @@ layout: post
 title: "Total Terminal"
 cover_image:
 
+category: articles
+
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz
   twitter: iCodeErgoExist

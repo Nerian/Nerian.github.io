@@ -19,6 +19,9 @@ author:
   bio: 'Founder'
   image: avatar.png
 
+tags: []
+category: articles
+
 excerpt: ""
 ---
 

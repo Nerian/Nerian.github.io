@@ -3,6 +3,8 @@ layout: post
 title: "The 16 most common questions about Git"
 cover_image:
 
+category: articles
+
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz
   twitter: iCodeErgoExist

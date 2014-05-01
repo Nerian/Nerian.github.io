@@ -3,6 +3,8 @@ layout: post
 title: "So you want to learn MongoDB?"
 cover_image:
 
+category: articles
+
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz
   twitter: iCodeErgoExist

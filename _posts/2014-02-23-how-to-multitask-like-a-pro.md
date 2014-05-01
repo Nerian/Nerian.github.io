@@ -3,6 +3,8 @@ layout: post
 title: "How to multi-task like a pro: Don't do it at all."
 cover_image:
 
+category: articles
+
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz
   twitter: iCodeErgoExist

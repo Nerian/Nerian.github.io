@@ -3,6 +3,8 @@ layout: post
 title: "Sublime Text 2: Activating spell checking per file"
 cover_image:
 
+category: articles
+
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz
   twitter: iCodeErgoExist
