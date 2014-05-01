@@ -22,7 +22,6 @@ author:
 excerpt: ""
 ---
 
-
 {% include email_list.html %}
     eos
   end
