@@ -53,7 +53,7 @@ git push origin --delete <branchName>
 * `git fetch`: Updates your local repository with the data from remote.
 * `git pull`: Updates your working copy with the changes in the remote.
 
-In practice: If you want to get the changes from remote without immediately changing your working copy then use `git fetch`. Otherwise use git pull. git pull does a `git fetch` followed by a git merge.
+In practice: If you want to get the changes from remote without immediately changing your working copy then use `git fetch`. Otherwise use `git pull`. `git pull` does a `git fetch` followed by a `git merge.
 
 ### How to undo 'git add' before having commited
 {% highlight bash %}
@@ -189,7 +189,7 @@ If you really need a directory to exist in checkouts you should create a file in
 
 ### How to checkout a remote branch
 
-Checkouts a branch named my_branch that exists an any of the remotes.
+Checkouts a branch named my_branch that exists in any of the remotes.
 {% highlight bash %}
 git checkout my_branch
 
@@ -216,11 +216,11 @@ git revert HEAD~2..HEAD # Revert a range of commits. Each commit will have is ow
 * If you haven't publish it already
 
 {% highlight bash %}
-git reset 0d1d7fc32
+git reset commit_sha # The one you want to revert to.
 
 Protip:
 If you have staged changed and you don't want to keep them use the `--hard` option.
-git reset --hard 0d1d7fc32
+git reset --hard commit_sha
 {% endhighlight %}
 
 ### How to force git to overwrite local files on pull
