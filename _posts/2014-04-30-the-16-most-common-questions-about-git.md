@@ -230,7 +230,7 @@ Update from remote.
 git fetch --all
 {% endhighlight %}
 
-Reset the master branch to what you just fetched. The `--hard option changes all the files in your working tree to match the files in origin/master, so if you have any local changes, they will be lost. With or without `--hard`, any local commits that haven't been pushed will be lost.
+Reset the master branch to what you just fetched. The `--hard` option changes all the files in your working tree to match the files in origin/master, so if you have any local changes, they will be lost. With or without `--hard`, any local commits that haven't been pushed will be lost.
 {% highlight bash %}
 git reset --hard origin/master
 {% endhighlight %}
