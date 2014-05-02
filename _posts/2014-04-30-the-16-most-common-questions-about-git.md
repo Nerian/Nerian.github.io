@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 16 most common questions about Git"
+title: "The 16 most commonly asked questions about Git"
 cover_image:
 
 category: articles
