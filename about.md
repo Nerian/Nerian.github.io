@@ -17,7 +17,7 @@ I am Gonzalo Rodríguez-Baltanás Díaz. I work for [Haiku Learning](http://www.
 
 I love participating in open source projects and using cutting edge technologies. I hold a degree on Computer Science by the university [Pablo de Olavide](http://www.upo.es/). I am a [Mendicant University Alumni](http://mendicantuniversity.org/).
 
-I love Ruby, MongoDB, Behaviour Driven Development, Photography, Windsurf and swimming.
+I love Ruby, MongoDB, Behavior Driven Development, Reading, Photography, Windsurf and swimming.
 
 My code is available in [Github](https://github.com/Nerian). Some of my popular open source projects are:
 
