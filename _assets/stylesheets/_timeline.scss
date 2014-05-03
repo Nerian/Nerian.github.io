@@ -1,0 +1,119 @@
+ul#timeline{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  border-right: 7px solid #F1CF63;
+  width: 50%;
+
+  li{
+    margin: 40px 0;
+    display: block;
+    position: relative;
+
+    span {
+      position: absolute;
+      top: calc(50% - 10px);
+      font-weight: bold;
+      color: #3c763d;
+    }
+
+    p{
+      -moz-border-radius: 5px;
+      -webkit-border-radius: 5px;
+      border-radius: 5px;
+      padding: 1.4em;
+      text-align: center;
+
+      background-color: #dff0d8;
+      box-shadow: 0px 0px 2px #79A553;
+    }
+
+    &:nth-child(even) {
+      left: 100%;
+      margin-left: 6px;
+      margin-right: -6px;
+    }
+
+    &:nth-child(even) span {
+      right: 100%;
+      margin-right: 20px;
+      white-space: nowrap;
+      color: #31708f;
+    }
+
+    &:nth-child(even) p {
+      margin: 1em 28px;
+      box-shadow: 0px 0px 2px #4C8C99;
+      background-color: #d9edf7;
+    }
+
+    &:nth-child(odd) span {
+      left: 100%;
+      margin-left: 20px;
+      white-space: nowrap;
+    }
+
+    &:nth-child(odd) p {
+      color: #2c3e50;
+      margin: 1em 14px;
+    }
+
+    &:nth-child(even) p:before {
+      width: 0;
+      content: '';
+      position: absolute;
+      display: block;
+      border-width: 22px 16px 22px 0;
+      border-style: solid;
+      border-color: transparent #d9edf7;
+      left: 12px;
+      top: 50%;
+      top: calc(50% - 22px);
+    }
+
+    &:nth-child(odd) p:after {
+      width: 12px;
+      content: '';
+      position: absolute;
+      display: block;
+      border-width: 22px 0 22px 16px;
+      border-style: solid;
+      border-color: transparent #dff0d8;
+      right: 0;
+      top: 50%;
+      top: calc(50% - 22px);
+    }
+
+    &:nth-child(even):before {
+      content: "";
+      background: #e67e22;
+      width: 10px;
+      height: 10px;
+      border: 3px solid #fff;
+      position: absolute;
+      -moz-border-radius: 50px;
+      -webkit-border-radius: 50px;
+      border-radius: 50 spx;
+      float: right;
+      top: calc(50% - 8px);
+      left: -8px;
+    }
+
+    &:nth-child(odd):after {
+      content: "";
+      background: #74c53a;
+      width: 10px;
+      height: 10px;
+      border: 3px solid #fff;
+      position: absolute;
+      -moz-border-radius: 50px;
+      -webkit-border-radius: 50px;
+      border-radius: 50 spx;
+      float: left;
+      top: 50%;
+      top: calc(50% - 8px);
+      right: -9px;
+      background-color: #e67e22;
+    }
+  }
+}
