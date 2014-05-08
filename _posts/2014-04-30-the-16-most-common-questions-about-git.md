@@ -235,4 +235,13 @@ Reset the master branch to what you just fetched. The `--hard` option changes al
 git reset --hard origin/master
 {% endhighlight %}
 
+
+### How to stash only one file out of multiple files that have changed
+
+This will stash everything that you haven't previously added. Just git add the things you want to keep, then run it.
+
+{% highlight bash %}
+git stash --keep-index
+{% endhighlight %}
+
 {% include email_list.html %}
