@@ -12,7 +12,7 @@ author:
 tags: []
 category: articles
 
-excerpt: ""
+excerpt: "A single server can handle multiple requests at the same time. In this article you will learn how to leverage Rails concurrent mode with Thin asyncronous requests. "
 ---
 
 Let's say we have this action:
