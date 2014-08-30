@@ -12,6 +12,9 @@ author:
 tags: []
 category: articles
 
+redirect_from:
+  - /articles/2014/07/28/how-to-handle-concurrent-requests-in-rails/
+
 excerpt: "A single server can handle multiple requests at the same time. In this article you will learn how to leverage Rails concurrent mode with Thin asyncronous requests. "
 ---
 
