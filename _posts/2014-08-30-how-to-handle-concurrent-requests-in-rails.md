@@ -55,7 +55,7 @@ end
 
 Then set up the action that you want to handle asyncronously in this way:
 
-{% highlight bash %}
+{% highlight ruby %}
 class ApplicationController < ActionController::Base
   def async
     EM.defer do
@@ -78,7 +78,7 @@ Let me remark that, until `request.env['async.callback'].call response` is execu
 
 There is one important gotcha with `throw :async`: No rack middleware will be executed for the response. Thereby if you try to set up a cookie it will fail. But here is a way to fix that:
 
-{% highlight bash %}
+{% highlight ruby %}
 class ApplicationController < ActionController::Base
   def async_with_cookies
     EM.defer do
