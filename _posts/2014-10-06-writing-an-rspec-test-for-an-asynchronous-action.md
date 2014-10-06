@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writting an RSpec test for an asynchronous action"
+title: "Writing an RSpec test for an asynchronous action"
 cover_image:
 
 author:
