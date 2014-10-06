@@ -14,16 +14,6 @@ tags: ['hire ruby developer']
 
 I am a freelance Ruby on Rails developer. That means we can work together to craft your ideas into real valuable solutions that clients love.
 
-## Current Status
-
-Fully booked. (_Updated 2014 January_)
-
-{% include hire_list.html %}
-
-## Why should I hire you?
-
-Because you know the only way to create an awesome product is assemble a great team to build it.
-
 ## Services
 
 * **Code Review**: A fresh pair of eyes can help you find new areas for improvement.
@@ -32,7 +22,7 @@ Because you know the only way to create an awesome product is assemble a great t
 
 ## Rate
 
-I provide my expertise for 50€ / hour.
+I provide my expertise for 75€ / hour.
 
 ## Contact
 
