@@ -243,5 +243,3 @@ This will stash everything that you haven't previously added. Just git add the t
 {% highlight bash %}
 git stash --keep-index
 {% endhighlight %}
-
-{% include email_list.html %}

@@ -1,53 +1,46 @@
 ---
 layout: base
 ---
-<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
 
-    <section>
-        <div class="container" style='text-shadow: 1px 2px #333333;'>
-            <h1>{{ site.inc.title }}</h1>
-            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
-
-            {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-            {% endif %}
-            {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-            {% endif %}
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss"></i>
-            </a>
-        </div>
-    </section>
-</div>
-
-
-<article class="container">
 {% for post in paginator.posts %}
-  {% unless post.draft %}
-    <section class="index">
-        <div>
-            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-            <div class="meta">
-               Published on
-                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
-            </div>
-            <p>{{ post.excerpt }}</p>
+
+  {% if post.cover_image %}
+  <div class="article-cover">
+    <div>
+      <img src="/images/{{ post.cover_image }}" class="image">
+    </div>
+  </div>
+  {% endif %}
+
+  <article>
+    <div class="container">
+      <header>
+        <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <div class="meta">
+            Published on
+            <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
         </div>
-        <hr>
-    </section>
-    {% endunless %}
-    {% endfor %}
-    <section class="pagination" style="text-align:center">
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/" class="btn btn-outline">‹ Newer</a>
-        {% else %}
-        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
-        {% endif %}
-      {% endif %}
-      {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
-      {% endif %}
-    </section>
-</article>
+      </header>
+
+      <section>
+        {{ post.content }}
+      </section>
+    </div>
+  </article>
+
+  <hr>
+
+{% endfor %}
+
+<section class="pagination" style="text-align:center">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/" class="btn btn-outline">‹ Newer</a>
+    {% else %}
+    <a href="/page/{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+    {% endif %}
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="/page/{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+  {% endif %}
+</section>

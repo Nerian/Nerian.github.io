@@ -1,0 +1,9 @@
+---
+layout: base
+---
+
+<div class="container" style='margin-top: 2em'>
+  {% for post in site.posts %}
+    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+  {% endfor %}
+</div>

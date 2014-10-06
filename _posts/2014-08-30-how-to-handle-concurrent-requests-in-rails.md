@@ -158,5 +158,3 @@ Note:
 If you use Pow for your app, use the ip address as in the example, because Pow will only handle one request at a time.
 
 You can see a full example here: [https://github.com/Nerian/concurrency](https://github.com/Nerian/concurrency)
-
-{% include email_list.html %}

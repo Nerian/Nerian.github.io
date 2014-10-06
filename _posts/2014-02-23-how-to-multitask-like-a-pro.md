@@ -31,5 +31,3 @@ Press F3 to open Mac OS's Spaces view. Create 6 of them. Drag your browser to th
 The rule is: You shall have only one application per space. Since you can only be on one space at a time, your focus will be dedicated to just one application. This simple strategy is the foundation of a productive work-flow.
 
 This article is part of a series on how to create the best development environment. Subscribe so you don't miss any chapter!
-
-{% include email_list.html %}

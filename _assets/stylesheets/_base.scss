@@ -69,8 +69,6 @@ a {
 }
 
 .index {
-    margin:0 5em;
-
     .avatar {
         float:left;
         border-radius:62px;
@@ -104,11 +102,11 @@ a {
         // background-image: -ms-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
 
         // background-image: -webkit-gradient(
-        // 	linear,
-        // 	left bottom,
-        // 	left top,
-        // 	color-stop(0, rgba(0,0,0,0.15)),
-        // 	color-stop(1, rgba(0,0,0,0))
+        //  linear,
+        //  left bottom,
+        //  left top,
+        //  color-stop(0, rgba(0,0,0,0.15)),
+        //  color-stop(1, rgba(0,0,0,0))
         // );
         padding: 50px 0;
         z-index:10;
