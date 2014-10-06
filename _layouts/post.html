@@ -3,31 +3,35 @@ layout: base
 ---
 {% if page.cover_image %}
 <div class="article-cover">
-    <div>
-        <img src="/images/{{ page.cover_image }}" class="image">
-    </div>
+  <div>
+    <img src="/images/{{ page.cover_image }}" class="image">
+  </div>
 </div>
 {% endif %}
 <article>
 
-    <div class="container">
-        <header>
-            <h2 class="title">{{ page.title }}</h2>
-            <div class="meta">
-                Published on
-                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
-            </div>
-        </header>
+  <div class="container">
+    <header>
+      <h2 class="title">{{ page.title }}</h2>
+      <div class="meta">
+        Published on
+        <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      </div>
+    </header>
 
-        <section>
-            {{ content }}
-            {% include _social.html %}
-        </section>
+    <section>
+      {{ content }}
+      {% include _social.html %}
+    </section>
 
-        {% if site.inc.disqus.shortname %}
-        <section>
-            {% include _disqus.html %}
-        </section>
-        {% endif %}
-    </div>
+    <section>
+      Ey, I'm on <a href="https://twitter.com/iCodeErgoExist">Twitter</a> if you would like to follow on.
+    </section>
+
+    {% if site.inc.disqus.shortname %}
+    <section>
+      {% include _disqus.html %}
+    </section>
+    {% endif %}
+  </div>
 </article>
