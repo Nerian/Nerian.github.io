@@ -131,16 +131,7 @@ article {
         overflow: hidden;
         text-align: center;
     }
-    h3:before,
-    h3:after {
-        background-color: #CCC;
-        content: "";
-        display: inline-block;
-        height: 1px;
-        position: relative;
-        vertical-align: middle;
-        width: 50%;
-    }
+
     h3:before {
         right: 0.5em;
         margin-left: -50%;
