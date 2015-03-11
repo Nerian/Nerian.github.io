@@ -32,7 +32,7 @@ class ApplicationController < ActionController::Base
 end
 {% endhighlight %}
 
-This code is a scalability problem, because each request efectively block other requests from being handled. If your service receives more than one request per 5 seconds, your service will start failing to respond. But it doesn't need to be like that. There is a way to tell Rails that it is okay to handle some other request while some other work is being done and then go back to that original request when all it's ready.
+This code is a scalability problem, because each request efectively blocks other requests from being handled. If your service receives more than one request per 5 seconds, your service will start failing to respond. But it doesn't need to be like that. There is a way to tell Rails that it is okay to handle some other request while some other work is being done and then go back to that original request when all it's ready.
 
 It's called concurrent mode.
 
@@ -152,7 +152,7 @@ Percentage of the requests served within a certain time (ms)
 ab -c10 -n10 http://127.0.0.1:5500/async_with_cookies  0,01s user 0,02s system 0% cpu 5,207 total
 {% endhighlight %}
 
-So you can see that it took 5 seconds total to handle the 10 requests (each one taking 5 seconds) thereby proving that we can handle concurrents requests. This is a very useful model for handling web requests where one portion of the request may take a few seconds. For example at Haiku we use this technique when handling concerning Google signin. The portion of code where we need to wait we simply executed them in a Event Machine defered block.
+So you can see that it took 5 seconds total to handle the 10 requests (each one taking 5 seconds) thereby proving that we can handle concurrents requests. This is a very useful model for handling web requests where one portion of the request may take a few seconds. For example at Haiku we use this technique when handling Google sign in. The portion of the code where we need to wait is simply executed within a Event Machine defered block.
 
 Note:
 If you use Pow for your app, use the ip address as in the example, because Pow will only handle one request at a time.
