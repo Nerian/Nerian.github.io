@@ -26,6 +26,10 @@ $accent: #2077b2;
   }
 }
 
+article p{
+  text-indent: 3em;
+}
+
 /* IMPORT CSS FILES */
 @import "bootstrap";
 @import "base";
