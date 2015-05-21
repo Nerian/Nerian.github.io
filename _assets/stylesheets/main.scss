@@ -30,6 +30,10 @@ article p{
   text-indent: 3em;
 }
 
+#timeline p{
+  text-indent: 0;
+}
+
 /* IMPORT CSS FILES */
 @import "bootstrap";
 @import "base";
