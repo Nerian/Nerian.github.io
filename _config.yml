@@ -21,7 +21,7 @@ inc:
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
     # shortname:  nerian-blog
-    shortname:
+    shortname: nerian.es
 
   # Sharing settings
   sharing:
