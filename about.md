@@ -13,9 +13,9 @@ description: Gonzalo is a freelance Ruby on Rails developer living in Spain
 
 Hi there!
 
-I am Gonzalo Rodríguez-Baltanás Díaz, I am a Ruby on Rails developer based in Spain. I am currently studying a MBA.
+I am Gonzalo Rodríguez-Baltanás Díaz, I am a Ruby on Rails developer based in Spain.
 
-I love participating in open source projects and using cutting edge technologies. I hold a degree on Computer Science by the university [Pablo de Olavide](http://www.upo.es/). I am a [Mendicant University Alumni](http://mendicantuniversity.org/).
+I love participating in open source projects and using cutting edge technologies. I hold both a degree on Computer Science and a MBA by the university [Pablo de Olavide](http://www.upo.es/). I am a [Mendicant University Alumni](http://mendicantuniversity.org/).
 
 I love Ruby, MongoDB, Behavior Driven Development, Reading, Photography, Windsurf and swimming.
 
