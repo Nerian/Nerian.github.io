@@ -15,6 +15,10 @@ category: articles
 excerpt: ""
 ---
 
+Update: The results are [published]({% post_url 2016-9-14-results-remote-working-study %}).
+
+<hr>
+
 Working in a remote way has many advantages. You have absolute control over when and where you work. The only thing that matters is that you actually get the job done: How you do it and when is your responsibility. This is one of the most positive points of working remotely. It is also one of its weaknesses.
 
 When you work remotely and you get to choose where to work an obvious choice is your own home. That way you don't need to commute. You are already in the office when you wake up. And that is a problem because, when you work from home, the natural barriers between private life and business disappears. You are no longer 'Not in the office'. Your coworkers may think that you are available 100% of the time. After all, you have a flexible schedule. The same thing happens from the point of view of your personal life. Because you work from home it may look to other people that you are available to them any time. After all, again, you have a flexible schedule.
