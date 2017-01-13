@@ -19,6 +19,6 @@ Back in 2015 I published a [article]({% post_url 2015-04-07-coworking-study %}) 
 
 Several hundreds people participated in the study and the data was analyzed. Results were interesting so I am publishing it. Right now there only the Spanish version of the document but I will publish a English one too.
 
-You can read it here (Spanish): <a target='_blank' href="https://www.dropbox.com/s/n0n2ct7zj0jbg70/La%20productividad%20de%20los%20trabajadores%20dentro%20de%20los%20espacios%20de%20coworking.pdf?dl=0">Productivity in coworking spaces.</a>
+You will be able to read it soon.
 
 The data confirms that both the social interactions and the space's environment do positively affect the productivity of people who choose to work from a coworking space.
