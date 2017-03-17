@@ -2,11 +2,9 @@
 layout: post
 title: My Erasmus experience
 subtitle: "My experience living as an Erasmus student"
-cover_image:
 
-modified: 2013-08-19
 category: articles
-tags: [erasmus]
+tags: [lifestyle]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

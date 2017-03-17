@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "So you want to learn MongoDB?"
-cover_image:
 
 category: articles
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

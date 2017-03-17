@@ -4,6 +4,7 @@ title: "The 16 most commonly asked questions about Git"
 cover_image:
 
 category: articles
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

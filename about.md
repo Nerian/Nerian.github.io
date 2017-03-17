@@ -17,15 +17,10 @@ I am Gonzalo Rodríguez-Baltanás Díaz, I am a Ruby on Rails developer based in
 
 I love participating in open source projects and using cutting edge technologies. I hold both a degree on Computer Science and a MBA by the university [Pablo de Olavide](http://www.upo.es/). I am a [Mendicant University Alumni](http://mendicantuniversity.org/).
 
-I love Ruby, MongoDB, Behavior Driven Development, Reading, Photography, Windsurf and swimming.
-
-My code is available in [Github](https://github.com/Nerian). Some of my popular open source projects are:
+My open source code is available in [Github](https://github.com/Nerian). Some of my popular open source projects are:
 
 * [bootstrap-datepicker-rails](https://github.com/Nerian/bootstrap-datepicker-rails)
 * [bootstrap-wysihtml5-rails](https://github.com/Nerian/bootstrap-wysihtml5-rails)
-* [bootstrap-typeahead-rails](https://github.com/Nerian/bootstrap-typeahead-rails)
-* [credly-ruby](https://github.com/haikulearning/credly-ruby)
-* [uboost-client](https://github.com/haikulearning/uboost-client)
 
 You can contact me at **gonzalo.rodriguez at nerian.es**. Drop me a line if you think I can be of help in your awesome project.
 

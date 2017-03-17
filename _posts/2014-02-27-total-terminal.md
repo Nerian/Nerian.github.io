@@ -4,6 +4,7 @@ title: "Total Terminal"
 cover_image:
 
 category: articles
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

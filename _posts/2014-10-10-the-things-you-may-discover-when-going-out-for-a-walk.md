@@ -9,7 +9,7 @@ author:
   bio: 'Founder'
   image: avatar.png
 
-tags: []
+tags: [lifestyle]
 category: articles
 
 excerpt: ""

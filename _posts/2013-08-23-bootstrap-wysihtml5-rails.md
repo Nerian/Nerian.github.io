@@ -2,11 +2,9 @@
 layout: post
 title: bootstrap-wysihtml5-rails
 subtitle: "Bootstrap Wysihtml5 Rails is the easiest way to add a beautiful rich text editor to your rails application"
-cover_image:
 
-modified: 2013-08-23
 category: articles
-tags: [bootstrap, rails, wysihtml5]
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

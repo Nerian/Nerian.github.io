@@ -4,6 +4,7 @@ title: "installing mysql2 gem on ruby 2.1.0 "
 cover_image:
 
 category: articles
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

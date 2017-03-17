@@ -2,11 +2,9 @@
 layout: post
 title: bootstrap-datepicker-rails
 subtitle: An introduction on the usage of bootstrap-datepicker-rails
-cover_image:
 
-modified: 2013-08-21
 category: articles
-tags: [bootstrap, rails, datepicker]
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

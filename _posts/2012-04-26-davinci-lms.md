@@ -2,11 +2,9 @@
 layout: post
 title: DaVinci LMS
 subtitle: "DaVinci LMS is a minimal Learning Management System"
-cover_image:
 
-modified: 2013-08-19
 category: articles
-tags: [davinci]
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

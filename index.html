@@ -3,9 +3,24 @@ layout: base
 ---
 
 <div class="container" style='margin-top: 2em'>
-  <h3>Articles</h3>
-
+  <h3>Essays</h3>
   {% for post in site.posts %}
-    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% if post.tags contains 'essay' %}
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+  {% endfor %}
+
+  <h3>Technical Articles</h3>
+  {% for post in site.posts %}
+    {% if post.tags contains 'tech' %}
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+  {% endfor %}
+
+  <h3>Lifestyle</h3>
+  {% for post in site.posts %}
+    {% if post.tags contains 'lifestyle' %}
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
   {% endfor %}
 </div>

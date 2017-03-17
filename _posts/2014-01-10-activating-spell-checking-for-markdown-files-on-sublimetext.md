@@ -4,6 +4,7 @@ title: "Sublime Text 2: Activating spell checking per file"
 cover_image:
 
 category: articles
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

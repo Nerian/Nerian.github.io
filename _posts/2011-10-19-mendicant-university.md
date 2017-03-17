@@ -2,11 +2,9 @@
 layout: post
 title: Mendicant University
 subtitle: "My experience in the Mendicant University program"
-cover_image:
 
-modified: 2013-08-19
 category: articles
-tags: [mendicant]
+tags: [tech]
 
 author:
   name: Gonzalo Rodríguez-Baltanás Díaz

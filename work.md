@@ -12,18 +12,20 @@ tags: ['hire ruby developer']
     </div>
 </div>
 
-I am a freelance Ruby on Rails developer. That means we can work together to craft your ideas into real valuable solutions that clients love.
+I solve real problems with the right amount of technology. I specialize in designing and implementing applications using web technologies.
 
-## Services
+My tools of trade are Ruby on Rails, and PostgreSQL, and the vast ecosystem that support both of them. I develop software following a simple premise: Code is not an asset, but liability, thereby it must concise, easy to change and to extend, so that the software can be continuously mutated to support the changing necessities of your actual business. I avoid trends, and the pursue of the Next Big Thing. I would rather develop an intense and deep knowledge of a small set of proven tools, than to waste my mine and your time reinventing the wheel, in different colours. I don't find a need to be passionate about your particular industry or trying to change the World; it's okay, I am still a professional and we can settle for both of us having a profitable business relationship.
 
-* **Code Review**: A fresh pair of eyes can help you find new areas for improvement.
-* **Full Projects**: You have an amazing business idea that can change the world but you don't know how to code. I am your man.
-* **Rescue projects**: You hired a cheap developer and he created a big and ugly tentacular monster. I can help you reboot your project and achieve success. But you will need to get the 'cheap' out of the equation: _Quality work is never cheap_.
+I am a experienced software developer that has worked in international teams developing applications concurrently used by millions of people. If my experience can help you, let me know.
 
 ## Rate
 
-I provide my expertise for 75€ / hour.
+I provide my expertise for 90€ / hour.
 
 ## Contact
 
 You can reach me at **gonzalo.rodriguez at nerian.es**.
+
+## Addendum
+
+I am fully booked right now. But feel free to contact to say hi.
