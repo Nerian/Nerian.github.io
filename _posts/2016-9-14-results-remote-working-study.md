@@ -22,3 +22,7 @@ Several hundreds people participated in the study and the data was analyzed. Res
 You will be able to read it soon.
 
 The data confirms that both the social interactions and the space's environment do positively affect the productivity of people who choose to work from a coworking space.
+
+<hr>
+
+My research work on coworking motivated me to design a web application for managing coworking spaces. Check it out :) <a href="https://www.coku-app.com/">https://www.coku-app.com/</a>
