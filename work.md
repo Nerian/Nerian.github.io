@@ -20,12 +20,8 @@ I am a experienced software developer that has worked in international teams dev
 
 ## Rate
 
-I provide my expertise for 90€ / hour.
+I provide my expertise for 70€ / hour.
 
 ## Contact
 
 You can reach me at **gonzalo.rodriguez at nerian.es**.
-
-## Addendum
-
-I am fully booked right now. But feel free to contact to say hi.
