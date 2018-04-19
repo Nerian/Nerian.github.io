@@ -7,7 +7,7 @@ description: Gonzalo is a freelance Ruby on Rails developer living in Spain
 
 <div class="article-cover" style='background: none'>
   <div style='text-align: center;'>
-    <img src="/images/avatar.png" class="image" style='border-radius: 999px;width: 250px;margin-bottom: 3em;'>
+    <img src="/images/avatar3.png" class="image" style='border-radius: 999px;width: 250px;margin-bottom: 3em;'>
   </div>
 </div>
 
