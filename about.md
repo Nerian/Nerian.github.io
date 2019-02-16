@@ -22,6 +22,6 @@ My open source code is available in [Github](https://github.com/Nerian). Some of
 * [bootstrap-datepicker-rails](https://github.com/Nerian/bootstrap-datepicker-rails)
 * [bootstrap-wysihtml5-rails](https://github.com/Nerian/bootstrap-wysihtml5-rails)
 
-You can contact me at **gonzalo.rodriguez at nerian.es**. Drop me a line if you think I can be of help in your awesome project.
+You can contact me at **gonzalo.rodriguez at nerian.es**. Drop me a line if you think I can be of help in your awesome project. Take a peek at my [Curriculum Vitae](https://www.dropbox.com/s/739hf8ggk8rmg65/CV%20-%20Gonzalo%20Rodr%C3%ADguez-Baltan%C3%A1s%20D%C3%ADaz%20-%20English.pdf?dl=0).
 
 {% include timeline.html %}
