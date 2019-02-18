@@ -1,26 +1,59 @@
 ---
-layout: base
+layout: default
 ---
 
-<div class="container" style='margin-top: 2em'>
-  <h3>Essays</h3>
-  {% for post in site.posts %}
-    {% if post.tags contains 'essay' %}
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    {% endif %}
-  {% endfor %}
+<section class="header10 cid-rihJS7ZU0k mbr-fullscreen mbr-parallax-background" id="header10-8">
+    <div class="mbr-overlay" style="opacity: 0.2; background-color: rgb(35, 35, 35);">
+    </div>
 
-  <h3>Technical Articles</h3>
-  {% for post in site.posts %}
-    {% if post.tags contains 'tech' %}
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    {% endif %}
-  {% endfor %}
+    <div class="container">
+        <div class="media-container-column mbr-white p-5 align-left col-lg-8 col-md-10">
+            <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-5"><span style="font-weight: normal;">
+                Gonzalo Rodríguez-Baltanas Díaz</span></h1>
 
-  <h3>Others</h3>
-  {% for post in site.posts %}
-    {% if post.tags contains 'lifestyle' %}
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    {% endif %}
-  {% endfor %}
-</div>
+            <p class="mbr-text pb-3 mbr-fonts-style display-7">Hi! I am Ruby on Rails developer based on Spain. Nice to meet you :)</p>
+
+        </div>
+    </div>
+
+    <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
+        <a href="#next">
+            <i class="mbri-down mbr-iconfont"></i>
+        </a>
+    </div>
+</section>
+
+<section class="counters5 counters cid-rihJP447uU" id="counters5-7">
+    <div class="container pt-4 mt-2">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">Articles</h2>
+        <h3 class="mbr-section-subtitle pb-5 align-center mbr-fonts-style display-5">
+            My random thoughts</h3>
+        <div class="row justify-content-center">
+            <div class="cards-block">
+                <div class="cards-container">
+                    {% for post in site.posts %}
+                      <div class="card px-3 align-left col-12">
+                          <div class="panel-item p-4 d-flex">
+                              <div class="card-img pr-3">
+                                <h5 class="img-text d-flex align-items-center justify-content-center">
+                                  {{ post.date | date: "%b %-d, %Y" }}
+                                </h5>
+                              </div>
+                              <div class="card-text">
+                                <h5 class="mbr-content-title mbr-bold mbr-fonts-style">
+                                  <a href="{{ post.url }}">{{ post.title }}</a>
+                                </h5>
+                                <p class="mbr-content-text mbr-fonts-style">
+                                  {{ post.subtitle }}
+                                </p>
+                              </div>
+                          </div>
+                      </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+</html>

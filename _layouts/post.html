@@ -1,33 +1,77 @@
 ---
-layout: base
+layout: default
 ---
-{% if page.cover_image %}
-<div class="article-cover">
-  <div>
-    <img src="/images/{{ page.cover_image }}" class="image">
-  </div>
-</div>
-{% endif %}
-<article>
 
+
+<section class="mbr-section content4 cid-riqXsCvrR2" id="content4-1d">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                    {{ page.title }}
+                </h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+                  {{ page.subtitle }}
+                </h3>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article content1 cid-riqXtvTuqk" id="content1-1e">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-riqXzGtrvV" id="social-buttons1-1f">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-md-8 align-center">
+                <h2 class="pb-3 mbr-section-title mbr-fonts-style display-2">
+                    SHARE THIS PAGE!
+                </h2>
+                <div>
+                    <div class="mbr-social-likes" data-counters="false">
+                        <span class="btn btn-social facebook mx-2" title="Share link on Facebook">
+                            <i class="socicon socicon-facebook"></i>
+                        </span>
+                        <span class="btn btn-social twitter mx-2" title="Share link on Twitter">
+                            <i class="socicon socicon-twitter"></i>
+                        </span>
+                        <span class="btn btn-social plusone mx-2" title="Share link on Google+">
+                            <i class="socicon socicon-googleplus"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section content4 cid-riqXsCvrR2" id="content4-1d">
   <div class="container">
-    <header>
-      <h2 class="title">{{ page.title }}</h2>
-      <div class="meta">
-        Published on
-        <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    <div class="media-container-row">
+      <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-12">
+        <div id="disqus_thread"></div>
       </div>
-    </header>
-
-    <section>
-      {{ content }}
-      {% include _social.html %}
-    </section>
-
-    {% if site.inc.disqus.shortname %}
-    <section>
-      {% include _disqus.html %}
-    </section>
-    {% endif %}
+    </div>
   </div>
-</article>
+</section>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = '{{ site.disqus.shortname }}'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
