@@ -19,3 +19,9 @@ markdown: kramdown
 
 disqus:
   shortname: nerian-blog
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - project.mobirise
+  - post.thor
