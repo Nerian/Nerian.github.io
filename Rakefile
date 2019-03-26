@@ -1,13 +1,9 @@
 require "rubygems"
 require "tmpdir"
-
-require "bundler/setup"
 require "jekyll"
-
 
 # Change your GitHub reponame eg. "kippt/jekyll-incorporated"
 GITHUB_REPONAME = "Nerian/Nerian.github.io"
-
 
 namespace :site do
   desc "Generate blog files"
@@ -32,6 +28,7 @@ namespace :site do
       system "git commit -m #{message.inspect}"
       system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
       system "git push origin master:refs/heads/master --force"
+      Dir.chdir("/tmp")
     end
   end
 end
