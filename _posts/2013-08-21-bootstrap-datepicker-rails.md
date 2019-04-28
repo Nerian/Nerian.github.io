@@ -12,10 +12,10 @@ author:
   bio: 'Founder'
   image: avatar.png
 
-excerpt: "While creating http://eucalipto.eu I needed to use a Datepicker. I was using the fantastic Twitter Bootstrap framework so I looked for a datepicker that would look as good."
+excerpt: "While creating https://www.eucalipto.eu I needed to use a Datepicker. I was using the fantastic Twitter Bootstrap framework so I looked for a datepicker that would look as good."
 ---
 
-While creating [eucalipto.eu](http://eucalipto.eu) I needed to use a Datepicker. I was using the fantastic Twitter Bootstrap framework so I looked for a datepicker that would look as good.
+While creating [eucalipto.eu](https://www.eucalipto.eu) I needed to use a Datepicker. I was using the fantastic Twitter Bootstrap framework so I looked for a datepicker that would look as good.
 
 Andrew Rowling's [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) was the perfect choice.
 
