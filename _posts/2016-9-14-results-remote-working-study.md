@@ -25,4 +25,4 @@ The data confirms that both the social interactions and the space's environment 
 
 <hr>
 
-My research work on coworking motivated me to design a web application for managing coworking spaces. Check it out :) <a href="https://www.coku-app.com/">https://www.coku-app.com/</a>
+My research work on coworking motivated me to design a web application for managing coworking spaces. Check it out :) <a href="https://www.coku-app.com/en">https://www.coku-app.com/en</a>
