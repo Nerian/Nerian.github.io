@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gonzalo Rodríguez-Baltanás Díaz</title>
+    <description>Personal website of Gonzalo Rodríguez-Baltanás Díaz.</description>
+    <link>https://nerian.es/</link>
+    <atom:link href="https://nerian.es/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Aug 2019 08:43:08 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Aug 2019 08:43:08 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>A critical essay on the subject of New Age Feminism</title>
+        <description>&lt;p&gt;I am not a New Age Feminist. You may be fighting to protect people who do in fact need to be protected, but you are fighting the wrong enemy. When a man hits a woman that he is in a relationship with, he is not doing so because she is a woman, and he is a man and such is their violent nature. He is doing so because violent people have violent desires and those who are near those individuals have violent ends. Both men and women alike have a sad history of violence towards their fellow brothers and sisters, their sons and daughters, their mothers and fathers; and you reap what you sow. But they also have a long history of harmonious coexistence and concerted celebration of Life, of appreciation of each of their respective physical and spiritual qualities in times of cultural Renaissance, and cooperation in times of war in the pursue of Liberty and Freedom. It is not a coincidence that the banner of the French Revolution was held by an armed woman supported by armed men, and the children they both created and whose future they both fight to protect.&lt;/p&gt;
+
+&lt;p&gt;Violence is what we need to condemn, and fight against, and not men. Ideologies and Religions are what we need to put under the fair microscope of rational critique, and not to succumb to this cultural decay known as Cultural Marxism that relentlessly pushes for the self-blaming and irrational hatred of heterosexuals, Europeans, men, healthy habits, entrepreneurial success, and the Stoic Humanist West. Liberal men and women are complementary allies in the essential battle for individual and secular Freedom. Do not let the anti-liberal Cultural Marxism, so dominant both on the Progressive Left and the Regressive Right, taint the Humanist heritage of mankind with the poison of hate and division.&lt;/p&gt;
+
+&lt;p&gt;The Greeks are no longer the incisive philosophers that first gave us Empiricism, or the concept of Republic, or that identified the divide between the Stoic and the Hedonist way of life; the Roman Empire was not the Roman Republic, that valued rational discussion, that empowered entrepreneurs, that created roads, aqueducts, and sewers still used today, that respected freedom of religion, that protected free trade, that gave us coded Law, that valued age, experience and integrity; the Middle Ages was not a prelude of the Renaissance, but the lack of it; The European Union is no longer a union of Europeans; The United States of America is no longer the Thirteen Colonies, that while having no army, and no navy to speak of, united and fought a war to defy the largest empire that has ever existed and the most powerful military force of the time, because they did no want to be imposed a 1% Income Tax.&lt;/p&gt;
+
+&lt;p&gt;Be a Liberal, yes, but a be True Liberal. And be both in soul and in action, for cultural progress is not a constant and unstoppable force of nature, but a conscious human action; something you either fight for or watch it vanish into the oblivion of obscurantism.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/freedom-guiding-the-people.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 +0100</pubDate>
+        <link>https://nerian.es/articles/2017/03/17/a-critical-essay-on-the-subject-of-new-age-feminism.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2017/03/17/a-critical-essay-on-the-subject-of-new-age-feminism.html</guid>
+        
+        <category>essay</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Coworking Study Results: Productivity in coworking spaces.</title>
+        <description>&lt;p&gt;Back in 2015 I published a &lt;a href=&quot;/articles/2015/04/07/coworking-study.html&quot;&gt;article&lt;/a&gt; asking for people to participate on a coworking study I was doing as a part of my Master’s research project. I am publishing the results now (2016). The objective was to study how the productivity of individuals was impacted by them working from a coworking space and the influence of the environment and social connections with productivity.&lt;/p&gt;
+
+&lt;p&gt;Several hundreds people participated in the study and the data was analyzed. Results were interesting so I am publishing it. Right now there only the Spanish version of the document but I will publish a English one too.&lt;/p&gt;
+
+&lt;p&gt;You will be able to read it soon.&lt;/p&gt;
+
+&lt;p&gt;The data confirms that both the social interactions and the space’s environment do positively affect the productivity of people who choose to work from a coworking space.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;My research work on coworking motivated me to design a web application for managing coworking spaces. Check it out :) &lt;a href=&quot;https://www.coku-app.com/en&quot;&gt;https://www.coku-app.com/en&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 +0200</pubDate>
+        <link>https://nerian.es/articles/2016/09/14/results-remote-working-study.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2016/09/14/results-remote-working-study.html</guid>
+        
+        <category>essay</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>The design of an antifragile Eurozone</title>
+        <description>&lt;p&gt;This article is a little bit different than the rest of articles in my blog. Most of my articles are about technology, yet this article may seem related to politics or economics matters. But not really; I am not going to talk about politics.&lt;/p&gt;
+
+&lt;p&gt;This article is really about design.&lt;/p&gt;
+
+&lt;p&gt;The mission of this article is to lay out a system by which countries, banks and citizens in the Eurozone are not exposed to the risks and failures of each other.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-model&quot;&gt;The model&lt;/h3&gt;
+
+&lt;p&gt;“Model” is a technical word. A model is a simplification of reality, simple enough that it can be understood, but complex enough that it provides enough information to be useful. A model is a tool that we use to understand complex matters in a pragmatic way.&lt;/p&gt;
+
+&lt;p&gt;Our model of the Eurozone is going to be composed of four entities: Euro (currency), Banks, Governments and Citizens.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;The Euro is the currency that the Eurozone uses.&lt;/li&gt;
+    &lt;li&gt;Banks are all the banks in the Eurozone.&lt;/li&gt;
+    &lt;li&gt;Governments are the organizations ruling each country.&lt;/li&gt;
+    &lt;li&gt;Citizens are the regular people living in a country.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Each of this entities has a role:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;The role of the government is to provide a series of services to the citizens.&lt;/li&gt;
+    &lt;li&gt;The role of the citizens is to generate value by creating services and goods.&lt;/li&gt;
+    &lt;li&gt;The role of the banks is to lend money and keep money safe&lt;/li&gt;
+    &lt;li&gt;The role of the currency is to serve as a mean of exchange for services and goods.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And they have interactions with each other:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;The money that governments have is provided by the citizens (taxes) and banks (sovereign debt).&lt;/li&gt;
+    &lt;li&gt;Citizens expect banks to keep their money safe, that is they can withdraw the money from their bank at any time.&lt;/li&gt;
+    &lt;li&gt;Citizens use banks to finance their businesses.&lt;/li&gt;
+    &lt;li&gt;Banks lend money to other banks.&lt;/li&gt;
+    &lt;li&gt;Governments lend money to other governments.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;the-risks&quot;&gt;The risks&lt;/h3&gt;
+
+&lt;p&gt;“Risk” is another technical word. Risk is defined as the possibility of something happening weighted with its cost.&lt;/p&gt;
+
+&lt;p&gt;Since banks lend money to other banks, the failure of one big bank to return a loan can have a domino effect and destroy other banks. This is what happened in the financial crisis of 2008. Banks in U.S.A were exposed to loans that were unlikely to ever be collected. When that risk was realized, the bank had a lot of loses to the point were it was insolvent. Other banks that previously lent money to that first bank were exposed to the possibility of losing that money if that bank were to go bankrupt. This situation spread, domino effect, all over world.&lt;/p&gt;
+
+&lt;p&gt;The reaction to this problem was for governments to finance the troubled banks with the money that they collect via taxes. Since most governments operate on a deficit, the money lent to banks was actually obtained via another loan. The disastrous nature of this deal is that it exposes the government to be liable for the failure of private companies. The role of the government in this deal was to act as a proxy between the troubled banks and the organizations that actually contributed the money, and act as collateral – pay the cost of a loan not being repaid.&lt;/p&gt;
+
+&lt;p&gt;We don’t pay taxes so that the government can expend it in however way it deems necessary. We pay taxes in order to pay for services the community has agreed to finance, and financing failed banks is not one of those. This strategy has exposed governments to heavy loses, unjust treatment of their shareholders (citizens) and provided only the compensation that rescued banks won’t be failing now – but may, in any case, fail in the future.&lt;/p&gt;
+
+&lt;p&gt;Most governments are operating at a loss, their budget has a deficit. Governments are not collecting enough taxes to pay for the cost of the services they provide to their citizens. The difference is being meet using credit from banks. If banks are not willing, or able, to lend money to the government, then the government may go bankrupt.&lt;/p&gt;
+
+&lt;p&gt;Businesses depend on banks to finance their operations. If banks are not willing, or able, to lend money to the business, then the business may go bankrupt.&lt;/p&gt;
+
+&lt;p&gt;If many businesses go bankrupt, the taxes the government collect are going to be diminished and the government will have a bigger deficit.&lt;/p&gt;
+
+&lt;p&gt;Since governments lend money to other governments, if one government, for any reason, is unable to return that money, the lending government may go bankrupt or incur in significant deficit. This is one of the aspects in the Greek crisis of 2015. The governments of Spain, Germany and France were exposed to thousands of millions of Greek sovereign debt and thus their ability to make decisions in a fair way was compromised.&lt;/p&gt;
+
+&lt;p&gt;The way in which the Eurozone dealt with the Greek crisis was obviously misguided when we consider the fact that those governments lent money they didn’t had (they operated on a deficit, thereby it was financed by issuing new debt) to pay for services that were not enjoyed by their own tax payers, to a country that was unlikely to return it, that used that money to pay back debt they previously acquired. Ridiculous.&lt;/p&gt;
+
+&lt;h3 id=&quot;mitigating-risk&quot;&gt;Mitigating risk&lt;/h3&gt;
+
+&lt;p&gt;So what we have here is a system in which the failure of citizens, governments and banks affect the others. They are very intertwined. Is it possible to build a system in which the failure of one is contained?&lt;/p&gt;
+
+&lt;p&gt;I think so. And it will be a simple thing actually. Just a matter of adding these rules to the game:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Governments are not allowed to lend money to any other government.&lt;/li&gt;
+    &lt;li&gt;Banks are not allowed to lend money to other banks.&lt;/li&gt;
+    &lt;li&gt;Only the European central bank can lend money to other banks in the Eurozone.&lt;/li&gt;
+    &lt;li&gt;Only the European central bank can lend money to governments in the Eurozone.&lt;/li&gt;
+    &lt;li&gt;The European central bank decides if a bank should be lent money.&lt;/li&gt;
+    &lt;li&gt;The European central bank must &lt;strong&gt;always&lt;/strong&gt; lend the money governments need.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If governments are not exposed to the debt of other countries, then it doesn’t matter – to them – if they fail. If Greece were to go bankrupt, it would have no impact on the finances of the governments of Germany, France or Spain.&lt;/p&gt;
+
+&lt;p&gt;If banks are not exposed to the debt of other banks, then it doesn’t matter – to them – if they fail. If one Spanish bank were to go bankrupt, it would have no impact on the finances of other banks in Spain.&lt;/p&gt;
+
+&lt;p&gt;Citizens use regular banks to finance their businesses. Banks are fully capable of absorbing loses of a regular business and if for any reason they are not, then it is only fair that they are allowed to fail – as any other business. Governments are not supposed to lend money to banks under no circumstance.&lt;/p&gt;
+
+&lt;p&gt;If only the European central bank were to be exposed to the debt of other banks in the Eurozone, then the failure of a bank will be contained, because the European central bank can always cope with any amount of losses because of the fact it can print money.&lt;/p&gt;
+
+&lt;p&gt;If only the European central bank were to be exposed to the debt of governments, then the failure of a government will be contained, because the European central bank can always cope with any amount of losses because of the fact it can print money.&lt;/p&gt;
+
+&lt;p&gt;The decision making of lending or not lending to a bank is made exclusively by the European central bank. This is not a political decision, this is an economic decision. A bank is a privately owned business, so the possibility of letting it fail should remain. If the central bank judges letting it fail to be better for the Eurozone than to finance it, it should have the option to.&lt;/p&gt;
+
+&lt;p&gt;On the contrary, governments are not privately own, and bankruptcy is a dramatic event for a government, so they cannot be allowed to fail. They should always receive the money. Any country in the Eurozone must be allowed to obtain any amount of credit that their country needs.&lt;/p&gt;
+
+&lt;p&gt;If we were to let this rule as it is, it is obvious that it could be abused: countries could just obtain an absurd amount of credit and lower taxes. Such a case would be good for the individual country, but bad for the overall economy of the Eurozone, as it may heavily devaluate the currency. I understand the Eurozone to be an economic alliance of governments that trust each other. If a government were to abuse the system in their own benefit at the expense of others then it is only fair that such a country be expelled from the group. This is a political decision and does not belong to the European Central bank, but to the current leaders of the governments of the Eurozone. It is paramount that government understand that operating on a deficit is to be a temporal strategy to cope with the variability of the economy. It is expected that governments do balance their accounts so as to not have any deficit.&lt;/p&gt;
+
+&lt;p&gt;The role of the European Central bank can thought as the entity that is designed to absorb and nullify the effects of dangerous debt. Citizens, businesses, governments, they all have, at some point in their life, the need to acquire a debt. Governments acquire it directly from the EU central bank. Businesses and citizens acquire it from regular banks and, should they fail to pay back, the bank can probably take the hit. If that bank were not able to take the hit, the EU central bank can help by lending them money. This is a system that, by design, makes circular debt impossible. All the negative effects of debt is dealt with, at the very end, by the European central bank. It’s a closed path were debt does not propagate. Banks lending money to governments, and then governments lending money to banks, and again and again until the bubble explodes is an scenario that is impossible within the constrains laid out in this section.&lt;/p&gt;
+
+&lt;h3 id=&quot;antifragile&quot;&gt;Antifragile&lt;/h3&gt;
+
+&lt;p&gt;So far we have argued a system in which risk is mitigated. That is, a system in which adverse change can be resisted. But we initially intended to create a system that is not just resistant, but antifragile. An antifragile system, as Nassim Nicholas Taleb defined in The Antifragile, is a system that gains, grows stronger, when change happens. So in that sense:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Does a government that has a deficit and loans money from the central bank make the system stronger?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes.&lt;/p&gt;
+
+&lt;p&gt;When a government has a deficit it means that the productivity of said country is not high enough to pay for the services the government is providing. There are only two ways to fix this problem. Either the country increases tax collection, or reduces costs. There is no other way, as a permanent deficit will, sooner or later, bankrupt the country.&lt;/p&gt;
+
+&lt;p&gt;Let’s suppose that the government has a fair tax system and no endemic corruption. The effect of the EU central bank lending money to that government is that the government can keep paying for the services it provides to their citizens and also it increases the flow of money in that local economy. So the government will have time to modify their cost structure. Also, when there is an increase in the amount of money in a country it has a positive effect on that economy, thereby is helps in the long term to collect more taxes by increasing the demand services and goods and thus creation of new businesses.&lt;/p&gt;
+
+&lt;p&gt;If it were not the case that the government has a proper tax system and no endemic corruption, it would be a country that shouldn’t be in the Eurozone in the first place. It is required that countries willing to join the Eurozone meet certain rules, such as deficit limits. The system is already set, this just need to be enforced – it was not enforced in the case of Greece.&lt;/p&gt;
+
+&lt;p&gt;It also has an impact on the currency: it devaluates it. This is not inherently good or bad. It’s good for exports, and it is bad for imports. On principle, the value of a currency is a reflection of the productivity of a country relative to others. In the case of the Eurozone, it is a reflection of the overall productivity of the countries that compose the Eurozone. When businesses in a given country are making a benefit, investors invest in said business. When those investors are foreign, they first need to exchange whatever their currency is for Euros. That increases the demand for Euros, and thus increases its value relative to the other currency. The value of the Euro as a currency is simply a reflection of how well the businesses of a country are doing.&lt;/p&gt;
+
+&lt;p&gt;The objective of the Eurozone should not be to maintain the Euro in a particular value, that’s a red herring. The objective of the Eurozone should be to develop an economy that is efficient and productive. The value of the Euro as a currency is simply a reflection of how well we are doing just that. We should not try to maintain the Euro at a particular value by artificial means.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Does a bank that loans money from the central bank make the system stronger?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes&lt;/p&gt;
+
+&lt;p&gt;Under this system, banks can only ask for a loan to the central bank. When a bank needs money, it is because it needs liquidity or because it has loses.&lt;/p&gt;
+
+&lt;p&gt;If it has loses, it may be fair to let that bank go bankrupt. It is a private business after all.&lt;/p&gt;
+
+&lt;p&gt;Banks have a lot of their money invested. They may have a healthy account, but they may not really have the actual bills available. They lent that money to businesses. But if a bank suddenly need liquidity – actual coins – it should be able to do it because citizens should be able to withdraw their money at any time. Under this model, the European central bank guarantees that citizens will be able to withdraw their money.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Does a business that has a deficit and loans money from a regular bank make the system stronger?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes.&lt;/p&gt;
+
+&lt;p&gt;Businesses are the drivers of the productivity of a country. But they fail. A lot.&lt;/p&gt;
+
+&lt;p&gt;Under this model, the failure of a business will only impact the lending banks. No domino effect. This is a system that investors can feel a lot more confident in, because risk is mitigated.&lt;/p&gt;
+
+&lt;p&gt;To conclude: Building an economic and political system in which the two latest crisis couldn’t had happened is possible. It simply requires that we adopt a system that provides a solid wall between the different actors in this economy, so that the failure of one, does not cause the failure of the other.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2015 00:00:00 +0100</pubDate>
+        <link>https://nerian.es/articles/2015/11/23/the-design-of-an-antifragile-eurozone.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2015/11/23/the-design-of-an-antifragile-eurozone.html</guid>
+        
+        <category>essay</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Working remotely</title>
+        <description>&lt;p&gt;Update: The results are &lt;a href=&quot;/articles/2016/09/14/results-remote-working-study.html&quot;&gt;published&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Working in a remote way has many advantages. You have absolute control over when and where you work. The only thing that matters is that you actually get the job done: How you do it and when is your responsibility. This is one of the most positive points of working remotely. It is also one of its weaknesses.&lt;/p&gt;
+
+&lt;p&gt;When you work remotely and you get to choose where to work an obvious choice is your own home. That way you don’t need to commute. You are already in the office when you wake up. And that is a problem because, when you work from home, the natural barriers between private life and business disappears. You are no longer ‘Not in the office’. Your coworkers may think that you are available 100% of the time. After all, you have a flexible schedule. The same thing happens from the point of view of your personal life. Because you work from home it may look to other people that you are available to them any time. After all, again, you have a flexible schedule.&lt;/p&gt;
+
+&lt;p&gt;When you mix these two points of view you get a clear picture of what it really looks doing remote work from home. There are two groups of people that both demand your time and attention, and since there is no longer a barrier in the form of a formal schedule, you are perceived to be available to them any time.&lt;/p&gt;
+
+&lt;p&gt;That is a recipe for being burn out. You need barriers between work and your private life. Otherwise you will be constantly interrupted when you need to be focused on a work task and thus it will take you longer to complete it. Similarly, your attention may be required when you are with your family, thereby creating a conflict between your work and your family. A barrier between the two spheres – work and private life – is important for both effective work and quality family life.&lt;/p&gt;
+
+&lt;p&gt;This is one the benefits of choosing to work in a coworking space when you are given the telework option. A coworking space is shared office that is run by a company that is not the one that hires you and that you share with people from other companies. Using coworking spaces have the benefit of creating a barrier between your business life and your private life. You may be working for a company that is based on a different country, but when you are in the coworking space you sure are working, and when you are out of the coworking space you no longer working. There is a barrier, a separation, a boundary that both your company and your family can clearly see and acknowledge.&lt;/p&gt;
+
+&lt;p&gt;As a part of Master degree in Business Administration I am doing a research on telework and how coworking spaces can be very effective way of doing it. This study can have a significant impact on how organizations can implement telework in a way that serves both the company and the family needs of the employees.&lt;/p&gt;
+
+&lt;p&gt;In order for this study to be successful it needs to be empirical, meaning that I need a big enough pool of people willing to answer my questions. If you have experience doing telework I am very interested in hearing from you. Please join the study and participate. All it will take you is to answer a few questions I will send you next month.&lt;/p&gt;
+
+&lt;p&gt;Checkout the website:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://nerian.es/coworking-study/&quot;&gt;http://nerian.es/coworking-study/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And share it :)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Apr 2015 00:00:00 +0200</pubDate>
+        <link>https://nerian.es/articles/2015/04/07/coworking-study.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2015/04/07/coworking-study.html</guid>
+        
+        <category>essay</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>The things you may discover when going out for a walk</title>
+        <description>&lt;p&gt;I quit my job at Haiku Learning a few weeks ago. It was an awesome job. I worked in very interesting projects that gave me the opportunity to learn; from designing graphical charts with D3JS, to creating API servers and clients, to micro-services and Rails Engines. Thanks to all these projects I have a very solid command of Ruby on Rails and the design principles that guide the creation of maintainable code.&lt;/p&gt;
+
+&lt;p&gt;But I lost something when I started working full time. I lost the opportunity to create my own products. My own projects. And that’s exactly where my passion lies.&lt;/p&gt;
+
+&lt;p&gt;So quit my job.&lt;/p&gt;
+
+&lt;p&gt;I joined a MBA in the university Pablo De Olavide to improve my business skills. I will tell you how that goes :)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Oct 2014 00:00:00 +0200</pubDate>
+        <link>https://nerian.es/articles/2014/10/10/the-things-you-may-discover-when-going-out-for-a-walk.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2014/10/10/the-things-you-may-discover-when-going-out-for-a-walk.html</guid>
+        
+        <category>lifestyle</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Writing an RSpec test for an asynchronous action</title>
+        <description>&lt;p&gt;In the &lt;a href=&quot;/articles/2014/08/30/how-to-handle-concurrent-requests-in-rails.html&quot;&gt;previous article&lt;/a&gt; you learnt how to write a Rails action that can handle concurrent users, an asynchronous action. Today you are going to learn how to write an RSpec test for it.&lt;/p&gt;
+
+&lt;p&gt;This is the controller we want to write a test for:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ApplicationController&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ActionController&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Base&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;sample&lt;/span&gt;
+    &lt;span class=&quot;no&quot;&gt;EM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;defer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;json: &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;response: &lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Hello World&#39;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+      &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;env&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;async.callback&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;call&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;response&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;kp&quot;&gt;throw&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:async&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;If this were not an asynchronous action, we would simply write a test like this:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;spec_helper&#39;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;describe&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ApplicationController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:type&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:controller&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;hello world&quot;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;get&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:sample&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;expect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;parse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;response&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;eq&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Hello World&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;But this won’t work because &lt;code class=&quot;highlighter-rouge&quot;&gt;throw :async&lt;/code&gt; will kill the action right away. &lt;code class=&quot;highlighter-rouge&quot;&gt;throw :async&lt;/code&gt; will make the interpreter go to &lt;a href=&quot;https://github.com/macournoyer/thin/blob/a1d69d683b820d4355aaaa4454f4212d76f712db/lib/thin/connection.rb#L84&quot;&gt;this line of code defined in the Thin gem&lt;/a&gt;. The problem is that Thin is not loaded at all when running a controller test.&lt;/p&gt;
+
+&lt;p&gt;In order to properly test an asynchronous action you need to run the test using a real Thin server. You can use &lt;a href=&quot;https://github.com/jnicklas/capybara&quot;&gt;Capybara&lt;/a&gt; to do that.&lt;/p&gt;
+
+&lt;p&gt;Gemfile&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;thin&#39;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;capybara&#39;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;selenium-webdriver&#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;In spec/rails_helper.rb:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;capybara/rails&#39;&lt;/span&gt;
+
+&lt;span class=&quot;no&quot;&gt;Capybara&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;default_driver&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:selenium&lt;/span&gt;
+
+&lt;span class=&quot;no&quot;&gt;Capybara&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;server&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;port&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;rack/handler/thin&#39;&lt;/span&gt;
+  &lt;span class=&quot;no&quot;&gt;Rack&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Handler&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Thin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;run&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:Port&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;port&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Write the test:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;describe&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ApplicationController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:type&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:feature&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;my test&quot;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;visit&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;some_path&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;expect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;page&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;have_content&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Hello World&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;And that’s it. Happy testing.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Oct 2014 00:00:00 +0200</pubDate>
+        <link>https://nerian.es/articles/2014/10/06/writing-an-rspec-test-for-an-asynchronous-action.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2014/10/06/writing-an-rspec-test-for-an-asynchronous-action.html</guid>
+        
+        <category>tech</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>How to handle concurrent requests in rails</title>
+        <description>&lt;p&gt;Let’s say we have this action:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ApplicationController&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ActionController&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Base&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;normal&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;sleep&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Some code that takes a long time. For example: a web request.&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;plain: &lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Hello&#39;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;This code is a scalability problem, because each request efectively blocks other requests from being handled. If your service receives more than one request per 5 seconds, your service will start failing to respond. But it doesn’t need to be like that. There is a way to tell Rails that it is okay to handle some other request while some other work is being done and then go back to that original request when all it’s ready.&lt;/p&gt;
+
+&lt;p&gt;It’s called concurrent mode.&lt;/p&gt;
+
+&lt;p&gt;In this example we will use Thin plus rails’s concurrent mode to handle request concurrently.&lt;/p&gt;
+
+&lt;p&gt;The first step is to add the Thin server to the Gemfile. A simple &lt;code class=&quot;highlighter-rouge&quot;&gt;gem &#39;thin&#39;&lt;/code&gt; in the Gemfile will do.&lt;/p&gt;
+
+&lt;p&gt;The second step is to activate the concurrent mode in the rails environment. For example, in development:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# config/environments/development.rb&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;Rails&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;application&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;configure&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+
+  &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;some&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;other&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt;
+
+  &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;allow_concurrency&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Then set up the action that you want to handle asyncronously in this way:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ApplicationController&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ActionController&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Base&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;async&lt;/span&gt;
+    &lt;span class=&quot;no&quot;&gt;EM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;defer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;sleep&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Some work that take a long time.&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;env&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;async.callback&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;call&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;response&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;kp&quot;&gt;throw&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:async&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Start the server like this: &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec thin --threaded -p 5500 --threadpool-size 50 start&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;That means that Thin will be started in threaded mode, and it will use up to 50 threads. The &lt;code class=&quot;highlighter-rouge&quot;&gt;threaded&lt;/code&gt; option is important as Thin defaults to non threaded mode.&lt;/p&gt;
+
+&lt;p&gt;When the request is being handled, the &lt;code class=&quot;highlighter-rouge&quot;&gt;EM.defer&lt;/code&gt; block will be executed in a separate thread. At the same time the &lt;code class=&quot;highlighter-rouge&quot;&gt;throw :async&lt;/code&gt; will be executed, which basically tells the Thin server that this request will be handled asyncronously and that it should inmediately start working on a different request. &lt;code class=&quot;highlighter-rouge&quot;&gt;request.env[&#39;async.callback&#39;].call response&lt;/code&gt; will communicate the response to the Thin server and send it back to the client.&lt;/p&gt;
+
+&lt;p&gt;Let me remark that, until &lt;code class=&quot;highlighter-rouge&quot;&gt;request.env[&#39;async.callback&#39;].call response&lt;/code&gt; is executed, no response is sent back to the client.&lt;/p&gt;
+
+&lt;p&gt;There is one important gotcha with &lt;code class=&quot;highlighter-rouge&quot;&gt;throw :async&lt;/code&gt;: No rack middleware will be executed for the response. Thereby if you try to set up a cookie it will fail. But here is a way to fix that:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ApplicationController&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ActionController&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Base&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;async_with_cookies&lt;/span&gt;
+    &lt;span class=&quot;no&quot;&gt;EM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;defer&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;sleep&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;cookies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;hello&#39;&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;cookies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;headers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;env&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;async.callback&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;call&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;response&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;kp&quot;&gt;throw&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:async&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cookies.write(headers)&lt;/code&gt; will take care of setting the headers that needs to be set in order to make the changes in the cookies. It’s basically the code that gets executed when the Cookie middleware is executed.&lt;/p&gt;
+
+&lt;p&gt;And that’s it, so simple.&lt;/p&gt;
+
+&lt;p&gt;One way to test that you action can really handle concurrent requests to to query the url with multiple requests at the same time. You can do it with Apache HTTP server benchmarking tool, packaged with Mac OS.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;➜  &lt;span class=&quot;nb&quot;&gt;time &lt;/span&gt;ab -c10 -n10 http://127.0.0.1:5500/async_with_cookies
+&lt;span class=&quot;c&quot;&gt;# That will send 10 requests, 10 request at a time (so all go in at the same)&lt;/span&gt;
+
+➜  Concurrent  &lt;span class=&quot;nb&quot;&gt;time &lt;/span&gt;ab -c10 -n10 http://127.0.0.1:5500/async_with_cookies
+This is ApacheBench, Version 2.3 &amp;lt;&lt;span class=&quot;nv&quot;&gt;$Revision&lt;/span&gt;: 655654 &lt;span class=&quot;nv&quot;&gt;$&amp;gt;&lt;/span&gt;
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 127.0.0.1 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;be patient&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;.....done
+
+
+Server Software:        thin
+Server Hostname:        127.0.0.1
+Server Port:            5500
+
+Document Path:          /async_with_cookies
+Document Length:        2844 bytes
+
+Concurrency Level:      10
+Time taken &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;tests:   5.178 seconds
+Complete requests:      10
+Failed requests:        7
+   &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;Connect: 0, Receive: 0, Length: 7, Exceptions: 0&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+Write errors:           0
+Non-2xx responses:      5
+Total transferred:      34886 bytes
+HTML transferred:       32330 bytes
+Requests per second:    1.93 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;#/sec] (mean)&lt;/span&gt;
+Time per request:       5178.076 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;ms] &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;mean&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+Time per request:       517.808 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;ms] &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;mean, across all concurrent requests&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+Transfer rate:          6.58 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;Kbytes/sec] received
+
+Connection Times &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ms&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.0      0       0
+Processing:   196 2687 2614.2   5158    5178
+Waiting:      196 2687 2614.2   5158    5177
+Total:        196 2687 2614.2   5159    5178
+
+Percentage of the requests served within a certain &lt;span class=&quot;nb&quot;&gt;time&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ms&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+  50%   5159
+  66%   5159
+  75%   5164
+  80%   5176
+  90%   5178
+  95%   5178
+  98%   5178
+  99%   5178
+ 100%   5178 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;longest request&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+ab -c10 -n10 http://127.0.0.1:5500/async_with_cookies  0,01s user 0,02s system 0% cpu 5,207 total&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;So you can see that it took 5 seconds total to handle the 10 requests (each one taking 5 seconds) thereby proving that we can handle concurrents requests. This is a very useful model for handling web requests where one portion of the request may take a few seconds. For example at Haiku we use this technique when handling Google sign in. The portion of the code where we need to wait is simply executed within a Event Machine defered block.&lt;/p&gt;
+
+&lt;p&gt;Note:
+If you use Pow for your app, use the ip address as in the example, because Pow will only handle one request at a time.&lt;/p&gt;
+
+&lt;p&gt;You can see a full example here: &lt;a href=&quot;https://github.com/Nerian/concurrency&quot;&gt;https://github.com/Nerian/concurrency&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Aug 2014 00:00:00 +0200</pubDate>
+        <link>https://nerian.es/articles/2014/08/30/how-to-handle-concurrent-requests-in-rails.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2014/08/30/how-to-handle-concurrent-requests-in-rails.html</guid>
+        
+        <category>tech</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>The 16 most commonly asked questions about Git</title>
+        <description>&lt;h3 id=&quot;how-to-edit-an-incorrect-commit-message-in-git&quot;&gt;How to edit an incorrect commit message in Git&lt;/h3&gt;
+
+&lt;p&gt;If the commit is the last one:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git commit --amend -m &lt;span class=&quot;s2&quot;&gt;&quot;New commit message&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;You can also use rebase to edit the commit messages – choose ‘reword’ for the commits you wish to edit.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git rebase -i HEAD~5  &lt;span class=&quot;c&quot;&gt;# Rebase the last 5 commits&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;: Doing a rebase does change the commit history – it changes the SHA of commits – so do not rebase a commit that has already been published otherwise you will end up with duplicated commits when your team merges your branch with their own branch.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Protip:&lt;/strong&gt; You can ignore that rule if you are working on a feature branch and you are about to merge your work with &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; and you just want to clean up things. Since you are going to be merging to master and then deleting the feature branch nobody is going to be affected. It is actually a good practice to do that in such a case.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trivia&lt;/strong&gt;: You can’t rebase the first commit of a repository, unless you pass the &lt;code class=&quot;highlighter-rouge&quot;&gt;--root&lt;/code&gt; option.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-undo-the-last-git-commit&quot;&gt;How to undo the last Git commit&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git reset --soft &lt;span class=&quot;s1&quot;&gt;&#39;HEAD^&#39;&lt;/span&gt;
+
+Protip:
+git config --global alias.undo-commit &lt;span class=&quot;s1&quot;&gt;&#39;reset --soft HEAD^&#39;&lt;/span&gt;
+git undo-commit&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-delete-a-git-branch-both-locally-and-remotely&quot;&gt;How to delete a git branch both locally and remotely:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git push origin --delete &amp;lt;branchName&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;what-is-the-difference-between-git-pull-and-git-fetch&quot;&gt;What is the difference between ‘git pull’ and ‘git fetch’&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git fetch&lt;/code&gt;: Updates your local repository with the data from remote.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt;: Updates your working copy with the changes in the remote.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In practice: If you want to get the changes from remote without immediately changing your working copy then use &lt;code class=&quot;highlighter-rouge&quot;&gt;git fetch&lt;/code&gt;. Otherwise use &lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt; does a &lt;code class=&quot;highlighter-rouge&quot;&gt;git fetch&lt;/code&gt; followed by a `git merge.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-undo-git-add-before-having-commited&quot;&gt;How to undo ‘git add’ before having commited&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git reset &amp;lt;file&amp;gt;
+git reset &lt;span class=&quot;c&quot;&gt;# omit the file in order to reset all of them&lt;/span&gt;
+
+Protip:
+git config --global alias.unstage &lt;span class=&quot;s1&quot;&gt;&#39;reset HEAD --&#39;&lt;/span&gt;
+git unstage &amp;lt;file&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-merge-a-git-conflict&quot;&gt;How to merge a Git conflict&lt;/h3&gt;
+
+&lt;p&gt;A conflict in Git occurs when two branches happen to modify the same area of code. Say you have a branch A:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# John renamed this method to:&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;john_is_the_best&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;…while branch B have this code in the same line:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Jaime renamed this method to:&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;jaime_is_the_best&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;In such case Git is not capable of merging both changes because Git can’t possibly know which one to choose. Your manual intervention is necessary and that is what we call a Git conflict. Git merging tools will markup areas in your code with conflict markers.&lt;/p&gt;
+
+&lt;p&gt;After seeing a conflict, you can do two things:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Decide not to merge. &lt;code class=&quot;highlighter-rouge&quot;&gt;git merge --abort&lt;/code&gt; can be used for this.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Resolve the conflicts. Git will mark the conflicts in the working tree. Edit the files into shape and &lt;code class=&quot;highlighter-rouge&quot;&gt;git add&lt;/code&gt; them to the index. Use &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit&lt;/code&gt; to seal the deal.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;Protip:
+git config merge.conflictstyle diff3 &lt;span class=&quot;c&quot;&gt;# Uses diff3 conflict markers.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Anatomy of a conflict marker:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-diff&quot; data-lang=&quot;diff&quot;&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;
+Changes made on the branch that is being merged into. In most cases,
+this is the branch that I have currently checked out (i.e. HEAD).
+|||||||
+The common ancestor version. This is what the common ancestor looked like. This is useful because you can compare it to the top and bottom versions to get a better sense of what was changed on each branch, which gives you a better idea for what the purpose of each change was.
+&lt;span class=&quot;gh&quot;&gt;=======
+&lt;/span&gt;Changes made on the branch that is being merged in. This is often a
+feature/topic branch.
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Following the example, if we try to merge John’s branch in Jaime’s branch we would have had:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-diff&quot; data-lang=&quot;diff&quot;&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+def jaime_is_the_best
+||||||| merged common ancestors
+def who_is_the_best?
+&lt;span class=&quot;gh&quot;&gt;=======
+&lt;/span&gt;def john_is_the_best
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; john&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Understanding the intention behind each diff block is generally very helpful for understanding where a conflict came from and how to handle it.&lt;/p&gt;
+
+&lt;p&gt;This shows all of the commits that touched that file, considering just changes in between the common ancestor and the two heads you are merging, so it doesn’t include commits that already exist in both branches before merging. This helps you ignore diff blocks that clearly are not a factor in your current conflict.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git log --merge -p &amp;lt;name of file&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;After resolving the conflicts, it is a very good practice to test that you didn’t broke anything. Run your automated test suite.&lt;/p&gt;
+
+&lt;p&gt;The easiest conflicts to solve are the ones that never happened:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Talk to your team and if you anticipate that some of you are going to be doing extensive modifications to a single file consider instead working sequentially – one of you make your changes first, and the other can work on the top of said changes. No conflicts.&lt;/li&gt;
+  &lt;li&gt;If working in parallel is a must, then merge assiduously; that way you will catch conflicts sooner than later – and so will be smaller and fresher in the memory of both parties involved.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If there is something worse than a difficult merge is a merge that went wrong but got commited anyways. If you find yourself unable to resolve the conflicts with confidence, do not merge, instead abort the merge with &lt;code class=&quot;highlighter-rouge&quot;&gt;git merge abort&lt;/code&gt; and talk to your team on how to best tackle it.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-clone-all-remote-branches-with-git&quot;&gt;How to clone all remote branches with Git&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git remote update
+git pull --all&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-remove-all-untracked-files-in-git&quot;&gt;How to remove all untracked files in Git&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git clean -f &lt;span class=&quot;c&quot;&gt;# Remove all untracked files.&lt;/span&gt;
+
+git clean -f -d &lt;span class=&quot;c&quot;&gt;# Remove all untracked files and directories.&lt;/span&gt;
+git clean -f -X &lt;span class=&quot;c&quot;&gt;# Remove just ignored files.&lt;/span&gt;
+git clean -f -x &lt;span class=&quot;c&quot;&gt;# Remove all untracked and ignored files.&lt;/span&gt;
+
+Protip:
+Use the --dry-run option &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;order to preview changes.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-remove-a-git-submodule&quot;&gt;How to remove a git submodule&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git submodule deinit &amp;lt;name&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-make-an-existing-git-branch-track-a-remote-branch&quot;&gt;How to make an existing Git branch track a remote branch&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git branch -u upstream/foo foo &lt;span class=&quot;c&quot;&gt;# you can omit the last &#39;foo&#39; if you are already in that branch.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-do-a-git-export-like-svn-export&quot;&gt;How to do a “git export” (like “svn export”)&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git archive --format zip --output name.zip master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-rename-a-local-git-branch&quot;&gt;How to rename a local Git branch&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git branch -m &amp;lt;oldname&amp;gt; &amp;lt;newname&amp;gt; &lt;span class=&quot;c&quot;&gt;# You can skip oldname if you want to rename the current branch.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-add-an-empty-directory-to-a-git-repository&quot;&gt;How to add an empty directory to a git repository&lt;/h3&gt;
+
+&lt;p&gt;Currently the design of the git index (staging area) only permits files to be listed. Directories are added automatically when adding files inside them. That is, directories never have to be added to the repository, and are not tracked on their own.&lt;/p&gt;
+
+&lt;p&gt;If you really need a directory to exist in checkouts you should create a file in it. For example a &lt;code class=&quot;highlighter-rouge&quot;&gt;.gitignore&lt;/code&gt; file; you can leave it empty.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-checkout-a-remote-branch&quot;&gt;How to checkout a remote branch&lt;/h3&gt;
+
+&lt;p&gt;Checkouts a branch named my_branch that exists in any of the remotes.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git checkout my_branch
+
+If multiple remotes have branches with the same name you will get an error – &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;which &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; you need to use the next form.
+
+Protip:
+Use the next form to checkout a branch named my_branch that exists &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;the remote named &lt;span class=&quot;s1&quot;&gt;&#39;origin&#39;&lt;/span&gt;
+
+git checkout origin/my_branch&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-revert-to-previous-git-commit&quot;&gt;How to revert to previous Git commit&lt;/h3&gt;
+
+&lt;p&gt;There are two cases:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you have published it already:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git revert commit_sha
+git revert commit_sha1 commit_sha2 commit_sha3 &lt;span class=&quot;c&quot;&gt;# Three commits are reverted in 3 separate commits&lt;/span&gt;
+git revert HEAD~2..HEAD &lt;span class=&quot;c&quot;&gt;# Revert a range of commits. Each commit will have is own revert commit.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you haven’t publish it already&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git reset commit_sha &lt;span class=&quot;c&quot;&gt;# The one you want to revert to.&lt;/span&gt;
+
+Protip:
+If you have staged changed and you don&lt;span class=&quot;s1&quot;&gt;&#39;t want to keep them use the `--hard` option.
+git reset --hard commit_sha&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-force-git-to-overwrite-local-files-on-pull&quot;&gt;How to force git to overwrite local files on pull&lt;/h3&gt;
+
+&lt;p&gt;Update from remote.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git fetch --all&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Reset the master branch to what you just fetched. The &lt;code class=&quot;highlighter-rouge&quot;&gt;--hard&lt;/code&gt; option changes all the files in your working tree to match the files in origin/master, so if you have any local changes, they will be lost. With or without &lt;code class=&quot;highlighter-rouge&quot;&gt;--hard&lt;/code&gt;, any local commits that haven’t been pushed will be lost.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git reset --hard origin/master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;how-to-stash-only-one-file-out-of-multiple-files-that-have-changed&quot;&gt;How to stash only one file out of multiple files that have changed&lt;/h3&gt;
+
+&lt;p&gt;This will stash everything that you haven’t previously added. Just git add the things you want to keep, then run it.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git stash --keep-index&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Wed, 30 Apr 2014 00:00:00 +0200</pubDate>
+        <link>https://nerian.es/articles/2014/04/30/the-16-most-common-questions-about-git.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2014/04/30/the-16-most-common-questions-about-git.html</guid>
+        
+        <category>tech</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Total Terminal</title>
+        <description>&lt;p&gt;As a developer you probably access your terminal hundreds of times a day. If you read the &lt;a href=&quot;/articles/2014/02/23/how-to-multitask-like-a-pro.html&quot;&gt;first article&lt;/a&gt; on how to be a productive developer you already have each application on a space; and one space per application. So in order to get to your Terminal you need to switch spaces. One space.&lt;/p&gt;
+
+&lt;p&gt;But there is a better way. What if you could have your Terminal in the space that you are right now, but only visible when you need it? Eliminating context switching is the key to regain your focus and your ability to solve problems real quick. You can have that with one single tool: Total Terminal.&lt;/p&gt;
+
+&lt;p&gt;It starts when you computer starts but it remains invisible until you need it. When you need it, you need only to press a shortcut key and a terminal appears at the top of your screen. One keystroke and it’s gone.&lt;/p&gt;
+
+&lt;p&gt;Start saving time now: &lt;a href=&quot;http://totalterminal.binaryage.com/&quot;&gt;http://totalterminal.binaryage.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This article is part of a series on how to create the best development environment. Subscribe so you don’t miss any chapter!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
+        <link>https://nerian.es/articles/2014/02/27/total-terminal.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2014/02/27/total-terminal.html</guid>
+        
+        <category>tech</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>How to multi-task like a pro: Don&#39;t do it at all.</title>
+        <description>&lt;p&gt;Multitasking is what the Operative System running on your computer does in order to run multiple applications at the same time. The CPU can only run one program at a time, so the OS literally splits the available CPU time between all the running applications. It works well for computers: It slowly kills you.&lt;/p&gt;
+
+&lt;p&gt;This is the pain that you feel when you have Mail, a Code Editor, a Web Browser and Hipchat running on the same desktop. You are refactoring some code, then suddenly you get an email – your boss has a question. You reply. Now time to get back to code ( uh were was I?). Your browser, Hipchat, Basecamp…all of those very important tools are competing for your undivided attention. Every time you leave one task unfinished to focus on another you will need to go back and refocus. Context switching is sucking your time: your most valuable resource.&lt;/p&gt;
+
+&lt;p&gt;Your court of tools are conspiring a Coup d’état against you. It’s time to remind them who is the king.&lt;/p&gt;
+
+&lt;p&gt;Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. Bookmark this page on your browser now. Then close every single application, including the browser. Do it and take 5 seconds to look at the desktop. Do it now, you can come back later.&lt;/p&gt;
+
+&lt;p&gt;This is what perfection looks like: There is nothing calling for your attention. Thereby you are free to focus on your most important task. Long live the King&lt;/p&gt;
+
+&lt;p&gt;I know what you are thinking: You do need to have several tools running to do your job. Sure you do, but now that you know what perfection looks like, you are ready to look for it.&lt;/p&gt;
+
+&lt;p&gt;Press F3 to open Mac OS’s Spaces view. Create 6 of them. Drag your browser to the third one and your code editor to the fourth. This is the starting stance. You can quickly switch between spaces by pressing ‘ctrl’ + ←  or ‘ctrl’ + →. By having your browser and code at the center of your spaces you can quickly move to it from whatever space you are.&lt;/p&gt;
+
+&lt;p&gt;The rule is: You shall have only one application per space. Since you can only be on one space at a time, your focus will be dedicated to just one application. This simple strategy is the foundation of a productive work-flow.&lt;/p&gt;
+
+&lt;p&gt;This article is part of a series on how to create the best development environment. Subscribe so you don’t miss any chapter!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Feb 2014 00:00:00 +0100</pubDate>
+        <link>https://nerian.es/articles/2014/02/23/how-to-multitask-like-a-pro.html</link>
+        <guid isPermaLink="true">https://nerian.es/articles/2014/02/23/how-to-multitask-like-a-pro.html</guid>
+        
+        <category>tech</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+  </channel>
+</rss>

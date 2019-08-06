@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>So you want to learn MongoDB?</title>
+  <meta name="description" content="Aren't you tired of thinking about your business models as a set of tables? What if you could represent them as a crystal clear mirror of your mental model?">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://nerian.es/articles/2014/01/25/so-you-want-to-learn-mongodb.html">
+  <link rel="alternate" type="application/rss+xml" title="Gonzalo Rodríguez-Baltanás Díaz" href="https://nerian.es/feed.xml">
+  <link rel="shortcut icon" href="/assets/images/logo-128x98.png" type="image/x-icon">
+
+  <link rel="stylesheet" href="/assets/icons-mind/style.css">
+  <link rel="stylesheet" href="/assets/icon54/style.css">
+  <link rel="stylesheet" href="/assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="/assets/tether/tether.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="/assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="/assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="/assets/gdpr-plugin/gdpr-styles.css">
+  <link rel="stylesheet" href="/assets/theme/css/style.css">
+  <link rel="stylesheet" href="/assets/mobirise/css/mbr-additional.css" type="text/css">
+</head>
+
+
+<body>
+  <section once="" class="cid-rihJvwNUYU" id="footer6-1c">
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    © Copyright 2019 Gonzalo Rodríguez-Baltanás Díaz - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="menu cid-rihJs4JJB3" once="menu" id="menu2-1b">
+
+  <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <div class="hamburger">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+          </div>
+      </button>
+      <div class="menu-logo">
+          <div class="navbar-brand">
+
+              <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="/">
+                      Gonzalo Rodríguez-Baltanás Díaz</a></span>
+          </div>
+      </div>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+                  <a class="nav-link link text-black display-4" href="/index.html">
+                      Blog</a>
+              </li><li class="nav-item"><a class="nav-link link text-black display-4" href="/about.html">
+                      About</a></li><li class="nav-item">
+                  <a class="nav-link link text-black display-4" href="/hire_me.html">
+                      Hire me</a>
+              </li><li class="nav-item"><a class="nav-link link text-black display-4" href="/cv.html">CV</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="/research.html">
+                      Research</a></li>
+              <li class="nav-item"><a class="nav-link link text-black display-4" href="/portfolio.html">
+                      Portfolio</a></li></ul>
+
+      </div>
+  </nav>
+</section>
+
+  <section class="mbr-section content4 cid-riqXsCvrR2" id="content4-1d">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                    So you want to learn MongoDB?
+                </h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+                  
+                </h3>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article content1 cid-riqXtvTuqk" id="content1-1e">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8">
+                <p><strong>MongoDB is a NoSQL database. What the hell does that even mean?</strong></p>
+
+<p>We all know the old good MySQL. MySQL is a relational database. That means your queries follow relational logic: “this collection of Users and this collection of Poll Answers relate to each other by this user_id attribute. Given that relation, find all the Poll Answers for this particular user”. That’s SQL.</p>
+
+<p><strong>So does this mean that MongoDB, being a NoSQL database, doesn’t have relational queries?</strong></p>
+
+<p>Actually, you can do those queries in MongoDB too. In fact they are pretty common.</p>
+
+<p><strong>But you said…</strong></p>
+
+<p>Yeah, NoSQL is an awful name to describe a set of characteristics that really has nothing to do with SQL, or lack of thereof. What NoSQL stands for is about giving you the choice on how you structure you data: and thereby what particular queries are given more speed than others.</p>
+
+<p>In MySQL you store your data in tables. Each table is a collection of elements that all share the same fundamental structure. In the case of a User collection we would probably find ‘First Name’, ‘Last Name’ and ‘Age’. All of those elements do have all those attributes, even if they are set to a null value. Relational databases enforce this quality; if you try to store a User with an arbitrary attribute such has ‘Favorite Color’ the database won’t let you. In MySQL, elements within a particular table have an homogeneous structure.</p>
+
+<p>By contrast, in MongoDB your collections are heterogeneous. Each element can have a different structure. Inside the Mutants collection you could create an element that has the ‘Name’, ‘Favorite Food’ and ‘Age’ attributes, and then some other element that is completely different: ‘Name’, ‘Weaknesses’, ‘Location’. And it’s all okay. In MongoDB collections are heterogeneous.</p>
+
+<p>Now you are probably thinking:</p>
+
+<p><strong>But how can I query a collection with completely different elements? How could I find a User by name for example, if I can’t be sure that the element have a name attribute?</strong></p>
+
+<p>And you would be 100% right.</p>
+
+<p>This is one of the things that people confuse the most. That you could do this, doesn’t mean you must or need to. Heterogeneous collections exist so that you can have the choice to structure your data as you need; exactly as you need and when you need. If you are modeling a collection of Users, you probably want to have ‘First Name’ and ‘Last Name’ attributes on each element. Awesome, enforce that. But in MongoDB that is enforced at the application level, not at the database level. Your business logic belongs outside the database.</p>
+
+<p>MongoDB specialty is storing data, not your mental models. In a NoSQL database such as MongoDB, relationships and structure are implicit, instead of explicit. They do exist, but they are not enforced at the Database level.</p>
+
+<p><strong>Example?</strong></p>
+
+<p>Let’s go back the User collection. Let’s say we have this structure:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"> <span class="c1"># User</span>
+ <span class="p">{</span>
+   <span class="s1">'First Name'</span><span class="p">:</span> <span class="s1">'John'</span>
+   <span class="s1">'Last Name'</span><span class="p">:</span> <span class="s1">'Doe'</span>
+   <span class="s1">'Age'</span><span class="p">:</span> <span class="s1">'25'</span>
+ <span class="p">}</span></code></pre></figure>
+
+<p>That is a very simple model. Both MongoDB and MySQL could store this kind of element very easily.</p>
+
+<p>In MySQL we would have a table called Users, with fields:</p>
+
+<ul>
+  <li>first_name: VARCHAR(255)</li>
+  <li>last_name: VARCHAR(255)</li>
+  <li>age: INT.</li>
+</ul>
+
+<p>In MongoDB we would store this document directly. The name of the attributes for this particular element will be stored in the document.</p>
+
+<ul>
+  <li>‘First Name’: UTF-8 String</li>
+  <li>‘Last Name’: UTF-8 Strings</li>
+  <li>‘Age’: Integer</li>
+</ul>
+
+<p>Pretty simple, both MySQL and MongoDB can model this in a pretty direct way. The tricky part comes when you want to store complex data for a particular user. For example, a list of favorite colors.</p>
+
+<p>In MongoDB we would simply store the document as this:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="p">{</span>
+  <span class="s1">'First Name'</span><span class="p">:</span> <span class="s1">'John'</span><span class="p">,</span>
+  <span class="s1">'Last Name'</span><span class="p">:</span> <span class="s1">'Doe'</span><span class="p">,</span>
+  <span class="s1">'Age'</span><span class="p">:</span> <span class="s1">'25'</span><span class="p">,</span>
+  <span class="s1">'Favorite Colors'</span><span class="p">:</span> <span class="p">[</span><span class="s1">'red'</span><span class="p">,</span> <span class="s1">'blue'</span><span class="p">,</span> <span class="s1">'yellow'</span><span class="p">]</span>
+<span class="p">}</span></code></pre></figure>
+
+<p>Very simple. The data structure maps to our mental model 1-1.</p>
+
+<p>MySQL don’t have the ability to store collections inside an element. The way you would model this in MySQL is by creating a user_colors table that will store a collection of elements with the following attributes:</p>
+
+<ul>
+  <li>id: A unique identifier for this element.</li>
+  <li>color: Name of the color.</li>
+  <li>user_id: Attribute that relates this element to one user.</li>
+</ul>
+
+<p>So for finding all the favorite colors of a particular user you will take the user_colors collection and filter by a particular user_id: the remaining elements will be the collection of colors for a particular user. A relational query.</p>
+
+<p><strong>Wait a minute, doesn’t that mean I can do the same thing with both?</strong></p>
+
+<p>Yes.</p>
+
+<p>Most applications business models can be modeled in a SQL database. That is why they are so popular; they get the job done. Yet I do find it more naturally to use MongoDB to model business objects. Its rich document-based way of composing elements lends itself to naturally model any business model. The heterogeneous collection afford me the flexibility of migrating data with zero-downtime. Its design principles induced a simple implementation in which the database can horizontally scale.</p>
+
+<p>Working with MongoDB is a joy.</p>
+
+<p>And I invite you to take the best course there is in order to learn it:</p>
+
+<p><a href="https://education.mongodb.com/">https://education.mongodb.com/</a></p>
+
+<p>Shameless self-promotion: 7% of the people got 100% of the score. I was one of them. What about you?</p>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-riqXzGtrvV" id="social-buttons1-1f">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-md-8 align-center">
+                <h2 class="pb-3 mbr-section-title mbr-fonts-style display-2">
+                    SHARE THIS PAGE!
+                </h2>
+                <div>
+                    <div class="mbr-social-likes" data-counters="false">
+                        <span class="btn btn-social facebook mx-2" title="Share link on Facebook">
+                            <i class="socicon socicon-facebook"></i>
+                        </span>
+                        <span class="btn btn-social twitter mx-2" title="Share link on Twitter">
+                            <i class="socicon socicon-twitter"></i>
+                        </span>
+                        <span class="btn btn-social plusone mx-2" title="Share link on Google+">
+                            <i class="socicon socicon-googleplus"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section content4 cid-riqXsCvrR2" id="content4-1d">
+  <div class="container">
+    <div class="media-container-row">
+      <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-12">
+        <div id="disqus_thread"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'nerian-blog'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+
+  <section once="" class="cid-rihJvwNUYU" id="footer6-6">
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    © Copyright 2019 Gonzalo Rodríguez-Baltanás Díaz - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="/assets/web/assets/jquery/jquery.min.js"></script>
+<script src="/assets/popper/popper.min.js"></script>
+<script src="/assets/tether/tether.min.js"></script>
+<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="/assets/smoothscroll/smooth-scroll.js"></script>
+<script src="/assets/dropdown/js/script.min.js"></script>
+<script src="/assets/touchswipe/jquery.touch-swipe.min.js"></script>
+<script src="/assets/parallax/jarallax.min.js"></script>
+<script src="/assets/viewportchecker/jquery.viewportchecker.js"></script>
+<script src="/assets/sociallikes/social-likes.js"></script>
+<script src="/assets/theme/js/script.js"></script>
+
+<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '4f3c0864cb25bc666100000b');
+    t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
+    t.src = 'https://d2fuc4clr7gvcn.cloudfront.net/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+</body>
+</html>

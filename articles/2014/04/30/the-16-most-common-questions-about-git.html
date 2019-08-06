@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>The 16 most commonly asked questions about Git</title>
+  <meta name="description" content="Git is the best source version control ever tool made. It is also a complex tool, but learning it doesn't need to be painful. This selection of the most comm...">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://nerian.es/articles/2014/04/30/the-16-most-common-questions-about-git.html">
+  <link rel="alternate" type="application/rss+xml" title="Gonzalo Rodríguez-Baltanás Díaz" href="https://nerian.es/feed.xml">
+  <link rel="shortcut icon" href="/assets/images/logo-128x98.png" type="image/x-icon">
+
+  <link rel="stylesheet" href="/assets/icons-mind/style.css">
+  <link rel="stylesheet" href="/assets/icon54/style.css">
+  <link rel="stylesheet" href="/assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="/assets/tether/tether.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="/assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="/assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="/assets/gdpr-plugin/gdpr-styles.css">
+  <link rel="stylesheet" href="/assets/theme/css/style.css">
+  <link rel="stylesheet" href="/assets/mobirise/css/mbr-additional.css" type="text/css">
+</head>
+
+
+<body>
+  <section once="" class="cid-rihJvwNUYU" id="footer6-1c">
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    © Copyright 2019 Gonzalo Rodríguez-Baltanás Díaz - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="menu cid-rihJs4JJB3" once="menu" id="menu2-1b">
+
+  <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <div class="hamburger">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+          </div>
+      </button>
+      <div class="menu-logo">
+          <div class="navbar-brand">
+
+              <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="/">
+                      Gonzalo Rodríguez-Baltanás Díaz</a></span>
+          </div>
+      </div>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+                  <a class="nav-link link text-black display-4" href="/index.html">
+                      Blog</a>
+              </li><li class="nav-item"><a class="nav-link link text-black display-4" href="/about.html">
+                      About</a></li><li class="nav-item">
+                  <a class="nav-link link text-black display-4" href="/hire_me.html">
+                      Hire me</a>
+              </li><li class="nav-item"><a class="nav-link link text-black display-4" href="/cv.html">CV</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="/research.html">
+                      Research</a></li>
+              <li class="nav-item"><a class="nav-link link text-black display-4" href="/portfolio.html">
+                      Portfolio</a></li></ul>
+
+      </div>
+  </nav>
+</section>
+
+  <section class="mbr-section content4 cid-riqXsCvrR2" id="content4-1d">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                    The 16 most commonly asked questions about Git
+                </h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+                  
+                </h3>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article content1 cid-riqXtvTuqk" id="content1-1e">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8">
+                <h3 id="how-to-edit-an-incorrect-commit-message-in-git">How to edit an incorrect commit message in Git</h3>
+
+<p>If the commit is the last one:</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git commit --amend -m <span class="s2">"New commit message"</span></code></pre></figure>
+
+<p>You can also use rebase to edit the commit messages – choose ‘reword’ for the commits you wish to edit.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git rebase -i HEAD~5  <span class="c"># Rebase the last 5 commits</span></code></pre></figure>
+
+<p><strong>Warning</strong>: Doing a rebase does change the commit history – it changes the SHA of commits – so do not rebase a commit that has already been published otherwise you will end up with duplicated commits when your team merges your branch with their own branch.</p>
+
+<p><strong>Protip:</strong> You can ignore that rule if you are working on a feature branch and you are about to merge your work with <code class="highlighter-rouge">master</code> and you just want to clean up things. Since you are going to be merging to master and then deleting the feature branch nobody is going to be affected. It is actually a good practice to do that in such a case.</p>
+
+<p><strong>Trivia</strong>: You can’t rebase the first commit of a repository, unless you pass the <code class="highlighter-rouge">--root</code> option.</p>
+
+<h3 id="how-to-undo-the-last-git-commit">How to undo the last Git commit</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git reset --soft <span class="s1">'HEAD^'</span>
+
+Protip:
+git config --global alias.undo-commit <span class="s1">'reset --soft HEAD^'</span>
+git undo-commit</code></pre></figure>
+
+<h3 id="how-to-delete-a-git-branch-both-locally-and-remotely">How to delete a git branch both locally and remotely:</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git push origin --delete &lt;branchName&gt;</code></pre></figure>
+
+<h3 id="what-is-the-difference-between-git-pull-and-git-fetch">What is the difference between ‘git pull’ and ‘git fetch’</h3>
+
+<ul>
+  <li><code class="highlighter-rouge">git fetch</code>: Updates your local repository with the data from remote.</li>
+  <li><code class="highlighter-rouge">git pull</code>: Updates your working copy with the changes in the remote.</li>
+</ul>
+
+<p>In practice: If you want to get the changes from remote without immediately changing your working copy then use <code class="highlighter-rouge">git fetch</code>. Otherwise use <code class="highlighter-rouge">git pull</code>. <code class="highlighter-rouge">git pull</code> does a <code class="highlighter-rouge">git fetch</code> followed by a `git merge.</p>
+
+<h3 id="how-to-undo-git-add-before-having-commited">How to undo ‘git add’ before having commited</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git reset &lt;file&gt;
+git reset <span class="c"># omit the file in order to reset all of them</span>
+
+Protip:
+git config --global alias.unstage <span class="s1">'reset HEAD --'</span>
+git unstage &lt;file&gt;</code></pre></figure>
+
+<h3 id="how-to-merge-a-git-conflict">How to merge a Git conflict</h3>
+
+<p>A conflict in Git occurs when two branches happen to modify the same area of code. Say you have a branch A:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="c1"># John renamed this method to:</span>
+<span class="k">def</span> <span class="nf">john_is_the_best</span>
+<span class="k">end</span></code></pre></figure>
+
+<p>…while branch B have this code in the same line:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="c1"># Jaime renamed this method to:</span>
+<span class="k">def</span> <span class="nf">jaime_is_the_best</span>
+<span class="k">end</span></code></pre></figure>
+
+<p>In such case Git is not capable of merging both changes because Git can’t possibly know which one to choose. Your manual intervention is necessary and that is what we call a Git conflict. Git merging tools will markup areas in your code with conflict markers.</p>
+
+<p>After seeing a conflict, you can do two things:</p>
+
+<ul>
+  <li>
+    <p>Decide not to merge. <code class="highlighter-rouge">git merge --abort</code> can be used for this.</p>
+  </li>
+  <li>
+    <p>Resolve the conflicts. Git will mark the conflicts in the working tree. Edit the files into shape and <code class="highlighter-rouge">git add</code> them to the index. Use <code class="highlighter-rouge">git commit</code> to seal the deal.</p>
+  </li>
+</ul>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">Protip:
+git config merge.conflictstyle diff3 <span class="c"># Uses diff3 conflict markers.</span></code></pre></figure>
+
+<p>Anatomy of a conflict marker:</p>
+
+<figure class="highlight"><pre><code class="language-diff" data-lang="diff">&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+Changes made on the branch that is being merged into. In most cases,
+this is the branch that I have currently checked out (i.e. HEAD).
+|||||||
+The common ancestor version. This is what the common ancestor looked like. This is useful because you can compare it to the top and bottom versions to get a better sense of what was changed on each branch, which gives you a better idea for what the purpose of each change was.
+<span class="gh">=======
+</span>Changes made on the branch that is being merged in. This is often a
+feature/topic branch.
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;</code></pre></figure>
+
+<p>Following the example, if we try to merge John’s branch in Jaime’s branch we would have had:</p>
+
+<figure class="highlight"><pre><code class="language-diff" data-lang="diff">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+def jaime_is_the_best
+||||||| merged common ancestors
+def who_is_the_best?
+<span class="gh">=======
+</span>def john_is_the_best
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; john</code></pre></figure>
+
+<p>Understanding the intention behind each diff block is generally very helpful for understanding where a conflict came from and how to handle it.</p>
+
+<p>This shows all of the commits that touched that file, considering just changes in between the common ancestor and the two heads you are merging, so it doesn’t include commits that already exist in both branches before merging. This helps you ignore diff blocks that clearly are not a factor in your current conflict.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git log --merge -p &lt;name of file&gt;</code></pre></figure>
+
+<p>After resolving the conflicts, it is a very good practice to test that you didn’t broke anything. Run your automated test suite.</p>
+
+<p>The easiest conflicts to solve are the ones that never happened:</p>
+
+<ul>
+  <li>Talk to your team and if you anticipate that some of you are going to be doing extensive modifications to a single file consider instead working sequentially – one of you make your changes first, and the other can work on the top of said changes. No conflicts.</li>
+  <li>If working in parallel is a must, then merge assiduously; that way you will catch conflicts sooner than later – and so will be smaller and fresher in the memory of both parties involved.</li>
+</ul>
+
+<p>If there is something worse than a difficult merge is a merge that went wrong but got commited anyways. If you find yourself unable to resolve the conflicts with confidence, do not merge, instead abort the merge with <code class="highlighter-rouge">git merge abort</code> and talk to your team on how to best tackle it.</p>
+
+<h3 id="how-to-clone-all-remote-branches-with-git">How to clone all remote branches with Git</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git remote update
+git pull --all</code></pre></figure>
+
+<h3 id="how-to-remove-all-untracked-files-in-git">How to remove all untracked files in Git</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git clean -f <span class="c"># Remove all untracked files.</span>
+
+git clean -f -d <span class="c"># Remove all untracked files and directories.</span>
+git clean -f -X <span class="c"># Remove just ignored files.</span>
+git clean -f -x <span class="c"># Remove all untracked and ignored files.</span>
+
+Protip:
+Use the --dry-run option <span class="k">in </span>order to preview changes.</code></pre></figure>
+
+<h3 id="how-to-remove-a-git-submodule">How to remove a git submodule</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git submodule deinit &lt;name&gt;</code></pre></figure>
+
+<h3 id="how-to-make-an-existing-git-branch-track-a-remote-branch">How to make an existing Git branch track a remote branch</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git branch -u upstream/foo foo <span class="c"># you can omit the last 'foo' if you are already in that branch.</span></code></pre></figure>
+
+<h3 id="how-to-do-a-git-export-like-svn-export">How to do a “git export” (like “svn export”)</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git archive --format zip --output name.zip master</code></pre></figure>
+
+<h3 id="how-to-rename-a-local-git-branch">How to rename a local Git branch</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git branch -m &lt;oldname&gt; &lt;newname&gt; <span class="c"># You can skip oldname if you want to rename the current branch.</span></code></pre></figure>
+
+<h3 id="how-to-add-an-empty-directory-to-a-git-repository">How to add an empty directory to a git repository</h3>
+
+<p>Currently the design of the git index (staging area) only permits files to be listed. Directories are added automatically when adding files inside them. That is, directories never have to be added to the repository, and are not tracked on their own.</p>
+
+<p>If you really need a directory to exist in checkouts you should create a file in it. For example a <code class="highlighter-rouge">.gitignore</code> file; you can leave it empty.</p>
+
+<h3 id="how-to-checkout-a-remote-branch">How to checkout a remote branch</h3>
+
+<p>Checkouts a branch named my_branch that exists in any of the remotes.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git checkout my_branch
+
+If multiple remotes have branches with the same name you will get an error – <span class="k">in </span>which <span class="k">case</span> you need to use the next form.
+
+Protip:
+Use the next form to checkout a branch named my_branch that exists <span class="k">in </span>the remote named <span class="s1">'origin'</span>
+
+git checkout origin/my_branch</code></pre></figure>
+
+<h3 id="how-to-revert-to-previous-git-commit">How to revert to previous Git commit</h3>
+
+<p>There are two cases:</p>
+
+<ul>
+  <li>If you have published it already:</li>
+</ul>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git revert commit_sha
+git revert commit_sha1 commit_sha2 commit_sha3 <span class="c"># Three commits are reverted in 3 separate commits</span>
+git revert HEAD~2..HEAD <span class="c"># Revert a range of commits. Each commit will have is own revert commit.</span></code></pre></figure>
+
+<ul>
+  <li>If you haven’t publish it already</li>
+</ul>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git reset commit_sha <span class="c"># The one you want to revert to.</span>
+
+Protip:
+If you have staged changed and you don<span class="s1">'t want to keep them use the `--hard` option.
+git reset --hard commit_sha</span></code></pre></figure>
+
+<h3 id="how-to-force-git-to-overwrite-local-files-on-pull">How to force git to overwrite local files on pull</h3>
+
+<p>Update from remote.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git fetch --all</code></pre></figure>
+
+<p>Reset the master branch to what you just fetched. The <code class="highlighter-rouge">--hard</code> option changes all the files in your working tree to match the files in origin/master, so if you have any local changes, they will be lost. With or without <code class="highlighter-rouge">--hard</code>, any local commits that haven’t been pushed will be lost.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git reset --hard origin/master</code></pre></figure>
+
+<h3 id="how-to-stash-only-one-file-out-of-multiple-files-that-have-changed">How to stash only one file out of multiple files that have changed</h3>
+
+<p>This will stash everything that you haven’t previously added. Just git add the things you want to keep, then run it.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">git stash --keep-index</code></pre></figure>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-riqXzGtrvV" id="social-buttons1-1f">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-md-8 align-center">
+                <h2 class="pb-3 mbr-section-title mbr-fonts-style display-2">
+                    SHARE THIS PAGE!
+                </h2>
+                <div>
+                    <div class="mbr-social-likes" data-counters="false">
+                        <span class="btn btn-social facebook mx-2" title="Share link on Facebook">
+                            <i class="socicon socicon-facebook"></i>
+                        </span>
+                        <span class="btn btn-social twitter mx-2" title="Share link on Twitter">
+                            <i class="socicon socicon-twitter"></i>
+                        </span>
+                        <span class="btn btn-social plusone mx-2" title="Share link on Google+">
+                            <i class="socicon socicon-googleplus"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section content4 cid-riqXsCvrR2" id="content4-1d">
+  <div class="container">
+    <div class="media-container-row">
+      <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-12">
+        <div id="disqus_thread"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'nerian-blog'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+
+  <section once="" class="cid-rihJvwNUYU" id="footer6-6">
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    © Copyright 2019 Gonzalo Rodríguez-Baltanás Díaz - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="/assets/web/assets/jquery/jquery.min.js"></script>
+<script src="/assets/popper/popper.min.js"></script>
+<script src="/assets/tether/tether.min.js"></script>
+<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="/assets/smoothscroll/smooth-scroll.js"></script>
+<script src="/assets/dropdown/js/script.min.js"></script>
+<script src="/assets/touchswipe/jquery.touch-swipe.min.js"></script>
+<script src="/assets/parallax/jarallax.min.js"></script>
+<script src="/assets/viewportchecker/jquery.viewportchecker.js"></script>
+<script src="/assets/sociallikes/social-likes.js"></script>
+<script src="/assets/theme/js/script.js"></script>
+
+<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '4f3c0864cb25bc666100000b');
+    t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
+    t.src = 'https://d2fuc4clr7gvcn.cloudfront.net/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+</body>
+</html>
